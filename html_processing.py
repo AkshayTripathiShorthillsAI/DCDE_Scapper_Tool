@@ -1,12 +1,17 @@
-import asyncio
+import requests
 import html2text
-from langchain_community.document_loaders import AsyncChromiumLoader
+from bs4 import BeautifulSoup
 
-# Fetch HTML content from a product URL asynchronously
-async def fetch_html(product_url):
-    loader = AsyncChromiumLoader([product_url])
-    html_documents = await loader.aload()
-    return html_documents[0].page_content if html_documents else None
+# Fetch HTML content from a product URL
+def fetch_html(product_url):
+    try:
+        response = requests.get(product_url)
+        if response.status_code == 200:
+            return response.text
+        else:
+            return None
+    except Exception as e:
+        return f"Error fetching HTML: {e}"
 
 # Convert HTML content to plain text
 def convert_html_to_plain_text(html_content):

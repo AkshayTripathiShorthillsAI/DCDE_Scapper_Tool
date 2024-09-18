@@ -1,10 +1,6 @@
 import streamlit as st
-import asyncio
 from html_processing import fetch_html, clean_html
 from process_data import process_data
-import os
-
-os.system("playwright install")
 
 def main():
     st.title("Product Information Extractor")
@@ -29,10 +25,10 @@ def main():
     # Button to Fetch HTML
     if st.button("Fetch HTML Content"):
         try:
-            st.session_state.html_content = asyncio.run(fetch_html(product_url))
+            st.session_state.html_content = fetch_html(product_url)
             st.success("HTML content fetched successfully!")
-        except RuntimeError:
-            st.error("Error fetching HTML content. Please try again.")
+        except Exception as e:
+            st.error(f"Error fetching HTML content: {e}")
 
     # Show HTML content if fetched
     if st.session_state.html_content:
@@ -107,7 +103,6 @@ def main():
     # Display the entered product URL
     st.subheader("Product URI")
     st.text(f"Product URL: {product_url}")
-
 
     st.markdown("---")
     st.markdown("### Created by AkshayTriapthiShorthillsAI")
