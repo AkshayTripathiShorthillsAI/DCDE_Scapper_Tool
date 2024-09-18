@@ -1,51 +1,52 @@
+# process_data.py
+
 import os
 from dotenv import load_dotenv
 import requests
 import json
+from prompts import GENERAL_PROMPT, FEATURES_PROMPT, DIMENSION_PROMPT, OPERATIONS_PROMPT
 
 # Load environment variables
 load_dotenv()
 
-def process_operation_text(long_text):
-    print("Akshay")
-    # Define the prompt
-    prompt = f"""You have been given a long text. Your task is to extract specific operational specifications and convert them into a JSON format. For each attribute listed below, provide the "label" and "desc" using the format shown. Ensure that the extracted data is concise and accurately reflects the information provided in the text.
+def get_prompt(prompt_type):
+    """
+    Retrieve the prompt based on the prompt type.
 
-Format:
-"attribute": {{
-  "label": "Attribute Label",
-  "desc": "Attribute Description"
-}}
+    Args:
+        prompt_type (str): Type of prompt to retrieve ('general' or 'features').
 
-Attributes to extract:
-- Manufacturer
-- Power
-- Operator Type
-- Load Capacity
-- Weight (Less Battery)
-- Wheels Number (X-Driven, Front/Rear)
-- Capacity at Lift Height (mm, LC)
-- Capacity at Lift Height (One, mm, LC)
-- Capacity at Lift Height (Two, mm, LC)
-- Capacity at Lift Height (Three, mm, LC)
-- Travel Speed (Without Load)
-- Lift Speed (Without Load)
-- Lowering Speed (Without Load)
-- Gradeability (Without Load, One, Min Rating)
-- Gradeability (Without Load, Min Rating)
-- Gradeability (Without Load, Two, Min Rating)
-- Service Brake
-- Type of Controller/Drive
+    Returns:
+        str: The selected prompt.
+    """
+    if prompt_type == 'general':
+        return GENERAL_PROMPT
+    elif prompt_type == 'features':
+        return FEATURES_PROMPT
+    elif prompt_type == 'dimensions':
+        return DIMENSION_PROMPT
+    elif prompt_type == 'operations':
+        return OPERATIONS_PROMPT
+    else:
+        raise ValueError("Invalid prompt type. Choose 'general' or 'features'.")
 
-Long text: {long_text}
-"""
+def process_data(long_text, prompt_type):
+    """
+    Process the data based on the prompt type.
+
+    Args:
+        long_text (str): The text to be processed.
+        prompt_type (str): Type of prompt to use ('general' or 'features').
+
+    Returns:
+        str: The processed result from the API.
+    """
+    prompt = get_prompt(prompt_type).format(long_text=long_text)
 
     # Define the headers and API URL
     api_url = os.getenv("Llama_API_URL")  # Load Llama 3 API URL from .env
     api_key = os.getenv("Llama_API_KEY")  # Load Llama 3 API key from .env
 
-    print(api_url, api_key)
-    
     headers = {
         'Content-Type': 'application/json',
         'Authorization': f'Bearer {api_key}'
@@ -67,7 +68,6 @@ Long text: {long_text}
     # Make the POST request to Llama 3 API
     try:
         response = requests.post(api_url, headers=headers, data=json.dumps(payload))
-        print(response)
         response.raise_for_status()  # Check if the request was successful
         
         response_json = response.json()
@@ -85,8 +85,14 @@ Long text: {long_text}
         return None
 
 if __name__ == "__main__":
+    # Example usage
     long_text = "Your long text goes here."
-    extracted_details = process_operation_text(long_text)
-    if extracted_details:
-        print("Extracted Details:")
-        print(extracted_details)
+    prompt_type = 'general'  # Change to 'features' if needed
+
+    try:
+        result = process_data(long_text, prompt_type)
+        if result:
+            print("Processed Result:")
+            print(result)
+    except ValueError as e:
+        print(e)
