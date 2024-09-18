@@ -2,6 +2,9 @@ import streamlit as st
 import asyncio
 from html_processing import fetch_html, clean_html
 from process_data import process_data
+import os
+
+os.system("playwright install")
 
 def main():
     st.title("Product Information Extractor")
