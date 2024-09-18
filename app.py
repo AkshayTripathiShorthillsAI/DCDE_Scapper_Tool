@@ -105,5 +105,10 @@ def main():
     st.subheader("Product URI")
     st.text(f"Product URL: {product_url}")
 
+
+    st.markdown("---")
+    st.markdown("### Created by AkshayTriapthiShorthillsAI")
+
+
 if __name__ == "__main__":
     main()
