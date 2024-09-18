@@ -1,0 +1,4598 @@
+[
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "M 3200-20 (TL-90)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "M Series Walkie Straddle Stacker",
+      "description": "M 3200 Walkie Straddle Stacker With a capacity of 2,000 lb, the M Series walkie straddle stacker can be used as a portable workstation, is able to stack loads 2 to 3 high in racks and maneuver loads in tight aisles or work areas.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/stackers/m-intermediate-stacker.html",
+    "features": [
+      "Dependable Versatility",
+      "Crown's M Series walkie straddle stacker provides a cost-effective solution for improving space utilization and stacking loads in various applications.",
+      "Exceptional Utility    ",
+      "Experience better efficiency and all-around utility with the M Series electric walkie stacker. Stacking",
+      "capabilities save space and time. Load and unload trucks from the ground or use it as a portable workstation.",
+      "Stack Pallets for Space Savings",
+      "When compared with counterbalance forklifts, Crown pallet stackers allow you to stack more products in the same size room by narrowing the required aisle width, which translates into more usable space while optimizing selectivity.",
+      "Crown electric stackers are efficient, require less maintenance and avoid pollutants, fuel cost and engine noise.",
+      "Take Control",
+      "You need exceptional control to meet the challenges of efficiently moving and storing product in limited space. The innovative controls and compact design of the M Series electric walkie stacker enables operators to maneuver with ease.",
+      "The exclusive Crown X10 Handle with its uniquely designed handgrip, thumbwheel and raise / lower buttons, simplifies operation and enhances comfort. When maneuvering a load, the position speed control enables operators to move the handle in near vertical position while engaging traction at creep speed. When operating in tight spaces with the handle completely vertical, the vertical tiller drive function allows for fine-tuned positioning.",
+      "Operators can quickly and conveniently choose from two levels of programmable performance to match their own skill level or the particular application needs.",
+      "Reliable, Lasting Value",
+      "Crown builds long-term value into all of its lift trucks and the M Series walkie straddle stacker is no exception.",
+      "Durability is evident inside and out. The frame, mast and outriggers feature generous amounts of steel for long life and a steel power unit cover to protect internal components. The control handle is made of high-grade aluminum and benefits from structural webbing for maximum strength and durability.",
+      "Long-term performance advantages are further extended with Crown’s integrated approach to maintenance. Internal components can be accessed quickly and easily. In addition, Crown’s innovative InfoPoint system simplifies trouble-shooting for service technicians.",
+      "Crown Extended Warranty",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "power": {
+        "label": "Power",
+        "desc": "Electric"
+      },
+      "operatorType": {
+        "label": "Operator Type",
+        "desc": "Walkie"
+      },
+      "loadCapacity": {
+        "label": "Load Capacity",
+        "desc": "2000 lb"
+      },
+      "weightLessBattery": {
+        "label": "Weight Less Battery",
+        "desc": "1663 lb"
+      },
+      "wheelsNumberXDrivenFrontRear": {
+        "label": "Wheels Number (x = driven) Front / Rear",
+        "desc": "1x / 2"
+      },
+      "capacityAtLiftHeightMmLc": {
+        "label": "Capacity at Lift Height 24\" (600 mm) LC",
+        "desc": "2000 lb"
+      },
+      "capacityAtLiftHeightOneMmLc": {
+        "label": "Capacity at Lift Height one 26\" (660 mm) LC",
+        "desc": "1815 lb"
+      },
+      "capacityAtLiftHeightTwoMmLc": {
+        "label": "Capacity at Lift Height two 28\" (711 mm) LC",
+        "desc": "1685 lb"
+      },
+      "capacityAtLiftHeightThreeMmLc": {
+        "label": "Capacity at Lift Height three 30\" (762 mm) LC",
+        "desc": "1570 lb"
+      },
+      "travelSpeedWWoLoad": {
+        "label": "Travel Speed w/ wo Load",
+        "desc": "3.11 / 3.42 mph"
+      },
+      "liftSpeedWWoLoad": {
+        "label": "Lift Speed w/ wo Load",
+        "desc": "27.56 / 43.31 fpm"
+      },
+      "loweringSpeedWWoLoad": {
+        "label": "Lowering Speed w/ wo Load",
+        "desc": "51.18 / 43.31 fpm"
+      },
+      "gradeabilityWWoLoadOneMinRating": {
+        "label": "Gradeability w/ wo Load one, 60 min Rating %",
+        "desc": "2.4 / 4.5"
+      },
+      "gradeabilityWWoLoadMinRating": {
+        "label": "Gradeability w/ wo Load, 30 min Rating %",
+        "desc": "4.9 / 9.1"
+      },
+      "maxGradeabilityWWoLoadTwoMinRating": {
+        "label": "Max Gradeability w/ wo Load two, 5 min Rating %",
+        "desc": "8.4 / 15.7"
+      },
+      "serviceBrake": {
+        "label": "Service Brake",
+        "desc": "Electric"
+      },
+      "typeOfControllerDrive": {
+        "label": "Type of Controller Drive",
+        "desc": "Transistor"
+      }
+    },
+    "dimensions": {
+      "mastType": {
+        "label": "label",
+        "desc": "TL-90 in"
+      },
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "wheelbase": {
+        "label": "Wheelbase",
+        "desc": "49 in"
+      },
+      "wheelSizeFrontDXWPoly": {
+        "label": "Wheel Size Front (d x w Poly)",
+        "desc": "10 x 3.35 in"
+      },
+      "wheelSizeFrontDXWRubber": {
+        "label": "Wheel Size Front (d x w) Rubber",
+        "desc": "10 x 4 in"
+      },
+      "wheelSizeRearDXWPoly": {
+        "label": "Wheel Size Rear (d x w) Poly",
+        "desc": "4 x 2 in"
+      },
+      "wheelSizeRearDXWSteel": {
+        "label": "Wheel Size Rear (d x w) Steel",
+        "desc": "4 x 2 in"
+      },
+      "additionalWheelsCasterWheelDXWPoly": {
+        "label": "Additional Wheels Caster Wheel (d x w) Poly",
+        "desc": "3.54 x 2 in"
+      },
+      "trackWidthRear": {
+        "label": "Track Width Rear",
+        "desc": "Inside Straddle + 3 in"
+      },
+      "liftHeight": {
+        "label": "Lift Height",
+        "desc": "90 in"
+      },
+      "freeLift": {
+        "label": "Free Lift",
+        "desc": "6 in"
+      },
+      "collapsedHeight": {
+        "label": "Collapsed Height",
+        "desc": "65 in"
+      },
+      "extendedHeightWOLoadBackrest": {
+        "label": "Extended Height w/o Load Backrest",
+        "desc": "108 in"
+      },
+      "extendedHeightWLoadBackrest": {
+        "label": "Extended Height w/ Load Backrest",
+        "desc": "127 in"
+      },
+      "loadBackrestWidthLoadBackrestHeightInHigh": {
+        "label": "Load Backrest Width Load Backrest Height in 36\" High",
+        "desc": "30 / 36 / 42"
+      },
+      "tillerArmHeightInDrivePositionMinMax": {
+        "label": "Tiller Arm Height in Drive Position Min / Max",
+        "desc": "31.1 / 47.5 in"
+      },
+      "outriggerHeight": {
+        "label": "Outrigger Height",
+        "desc": "4 in"
+      },
+      "loweredForkHeight": {
+        "label": "Lowered Fork Height",
+        "desc": "2 in"
+      },
+      "powerUnitHeight": {
+        "label": "Power Unit Height",
+        "desc": "32.28 in"
+      },
+      "forkLengths": {
+        "label": "Fork Lengths",
+        "desc": "36 / 42 / 48 in"
+      },
+      "forkDimensionsThicknessXWidth": {
+        "label": "Fork Dimensions Thickness x Width",
+        "desc": "1.5 x 3 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithoutForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max without fork locks",
+        "desc": "6.57 - 24.8 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max with fork locks ",
+        "desc": "7.2 - 24.3 in"
+      },
+      "headlengthWithoutForkLocks": {
+        "label": "Headlength without fork locks",
+        "desc": "32.24 in "
+      },
+      "headlengthWithForkLocks": {
+        "label": "Headlength with fork locks",
+        "desc": "32.6 in"
+      },
+      "overallLength": {
+        "label": "Overall Length",
+        "desc": "Headlength + Fork Length"
+      },
+      "insideStraddle": {
+        "label": "Inside Straddle",
+        "desc": "38 - 50 in"
+      },
+      "overallWidthFront": {
+        "label": "Overall Width Front",
+        "desc": "28.03 in"
+      },
+      "overallWidthRear": {
+        "label": "Overall Width Rear",
+        "desc": "Inside Straddle + 6 in"
+      },
+      "forkCarriageWidth": {
+        "label": "Fork Carriage Width",
+        "desc": "26.57 in"
+      },
+      "groundClearanceWLoadBelowMast": {
+        "label": "Ground Clearance w/ Load below Mast",
+        "desc": "1.57 in"
+      },
+      "groundClearanceCenterWheelbase": {
+        "label": "Ground Clearance Center Wheelbase",
+        "desc": "1.57 in"
+      },
+      "turningRadius": {
+        "label": "Turning Radius",
+        "desc": "56.73 in"
+      },
+      "lengthWOutriggers": {
+        "label": "Length w/ Outriggers",
+        "desc": "60.28 in"
+      },
+      "maximumBatteryBoxLXWXH": {
+        "label": "Maximum Battery Box L x W x H",
+        "desc": "7.28 x 25.55 24.13 in"
+      }
+    },
+    "options": [
+      "Battery Options",
+      "Various battery options enable you to match the right battery with your application.",
+      "Load Backrest",
+      "The steel-constructed load backrest stabilizes loads and helps prevent unexpected pallet movement.",
+      "Adjustable Outriggers",
+      "Adjustable outriggers enable you to change the straddle width to suit your needs, easily handling loads of varying dimensions."
+    ],
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f832a8a2ff612d757d2ad.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f832caa143a6840225707.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f832eecc8281bb0687943.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83303ab9aa105919a2a5.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8332acff364b2a221269.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8333ae07f304624f3006.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83354c5e6a02d14d6fe7.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83372fff4534f641125b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8338bba686442c0d038a.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f833a5ddc84639a2ffcad.jpg"
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f833bf593350e51415297.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f833dd535b8367156e578.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "battery": {
+      "batteryVoltagenominalCapacityHourRatingxvAutomotiveStarter": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating)4x 6V Automotive Starter",
+        "desc": "24 / 87 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFree": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 2x 12V Maintenance Free",
+        "desc": "24 / 95 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvSemiindustrial": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Semi-Industrial",
+        "desc": "24 / 156 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFreeOne": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Maintenance Free one",
+        "desc": "24 / 195 V"
+      },
+      "batteryWeightxvAutomotiveStarter": {
+        "label": "Battery  Weight 4x 6V Automotive Starter",
+        "desc": "128 lb"
+      },
+      "batteryWeightxvMaintenanceFree": {
+        "label": "Battery Weight 2x 12V Maintenance Free",
+        "desc": "132 lb"
+      },
+      "batteryWeightxvSemiindustrial": {
+        "label": "Battery Weight 4x 6V Semi-Industrial",
+        "desc": "220 lb"
+      },
+      "batteryWeightxvMaintenanceFreeOne": {
+        "label": "Battery Weight 4x 6V Maintenance Free one ",
+        "desc": "267 lb"
+      }
+    }
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "M 3200-20 (TL-110)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "M Series Walkie Straddle Stacker",
+      "description": "M 3200 Walkie Straddle Stacker With a capacity of 2,000 lb, the M Series walkie straddle stacker can be used as a portable workstation, is able to stack loads 2 to 3 high in racks and maneuver loads in tight aisles or work areas.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/stackers/m-intermediate-stacker.html",
+    "features": [
+      "Dependable Versatility",
+      "Crown's M Series walkie straddle stacker provides a cost-effective solution for improving space utilization and stacking loads in various applications.",
+      "Exceptional Utility    ",
+      "Experience better efficiency and all-around utility with the M Series electric walkie stacker. Stacking",
+      "capabilities save space and time. Load and unload trucks from the ground or use it as a portable workstation.",
+      "Stack Pallets for Space Savings",
+      "When compared with counterbalance forklifts, Crown pallet stackers allow you to stack more products in the same size room by narrowing the required aisle width, which translates into more usable space while optimizing selectivity.",
+      "Crown electric stackers are efficient, require less maintenance and avoid pollutants, fuel cost and engine noise.",
+      "Take Control",
+      "You need exceptional control to meet the challenges of efficiently moving and storing product in limited space. The innovative controls and compact design of the M Series electric walkie stacker enables operators to maneuver with ease.",
+      "The exclusive Crown X10 Handle with its uniquely designed handgrip, thumbwheel and raise / lower buttons, simplifies operation and enhances comfort. When maneuvering a load, the position speed control enables operators to move the handle in near vertical position while engaging traction at creep speed. When operating in tight spaces with the handle completely vertical, the vertical tiller drive function allows for fine-tuned positioning.",
+      "Operators can quickly and conveniently choose from two levels of programmable performance to match their own skill level or the particular application needs.",
+      "Reliable, Lasting Value",
+      "Crown builds long-term value into all of its lift trucks and the M Series walkie straddle stacker is no exception.",
+      "Durability is evident inside and out. The frame, mast and outriggers feature generous amounts of steel for long life and a steel power unit cover to protect internal components. The control handle is made of high-grade aluminum and benefits from structural webbing for maximum strength and durability.",
+      "Long-term performance advantages are further extended with Crown’s integrated approach to maintenance. Internal components can be accessed quickly and easily. In addition, Crown’s innovative InfoPoint system simplifies trouble-shooting for service technicians.",
+      "Crown Extended Warranty",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "power": {
+        "label": "Power",
+        "desc": "Electric"
+      },
+      "operatorType": {
+        "label": "Operator Type",
+        "desc": "Walkie"
+      },
+      "loadCapacity": {
+        "label": "Load Capacity",
+        "desc": "2000 lb"
+      },
+      "weightLessBattery": {
+        "label": "Weight Less Battery",
+        "desc": "1704 lb"
+      },
+      "wheelsNumberXDrivenFrontRear": {
+        "label": "Wheels Number (x = driven) Front / Rear",
+        "desc": "1x / 2"
+      },
+      "capacityAtLiftHeightMmLc": {
+        "label": "Capacity at Lift Height 24\" (600 mm) LC",
+        "desc": "2000 lb"
+      },
+      "capacityAtLiftHeightOneMmLc": {
+        "label": "Capacity at Lift Height one 26\" (660 mm) LC",
+        "desc": "1815 lb"
+      },
+      "capacityAtLiftHeightTwoMmLc": {
+        "label": "Capacity at Lift Height two 28\" (711 mm) LC",
+        "desc": "1685 lb"
+      },
+      "capacityAtLiftHeightThreeMmLc": {
+        "label": "Capacity at Lift Height three 30\" (762 mm) LC",
+        "desc": "1570 lb"
+      },
+      "travelSpeedWWoLoad": {
+        "label": "Travel Speed w/ wo Load",
+        "desc": "3.11 / 3.42 mph"
+      },
+      "liftSpeedWWoLoad": {
+        "label": "Lift Speed w/ wo Load",
+        "desc": "27.56 / 43.31 fpm"
+      },
+      "loweringSpeedWWoLoad": {
+        "label": "Lowering Speed w/ wo Load",
+        "desc": "51.18 / 43.31 fpm"
+      },
+      "gradeabilityWWoLoadOneMinRating": {
+        "label": "Gradeability w/ wo Load one, 60 min Rating %",
+        "desc": "2.4 / 4.5"
+      },
+      "gradeabilityWWoLoadMinRating": {
+        "label": "Gradeability w/ wo Load, 30 min Rating %",
+        "desc": "4.9 / 9.1"
+      },
+      "maxGradeabilityWWoLoadTwoMinRating": {
+        "label": "Max Gradeability w/ wo Load two, 5 min Rating %",
+        "desc": "8.4 / 15.7"
+      },
+      "serviceBrake": {
+        "label": "Service Brake",
+        "desc": "Electric"
+      },
+      "typeOfControllerDrive": {
+        "label": "Type of Controller Drive",
+        "desc": "Transistor"
+      }
+    },
+    "battery": {
+      "batteryVoltagenominalCapacityHourRatingxvAutomotiveStarter": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating)4x 6V Automotive Starter",
+        "desc": "24 / 87 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFree": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 2x 12V Maintenance Free",
+        "desc": "24 / 95 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvSemiindustrial": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Semi-Industrial",
+        "desc": "24 / 156 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFreeOne": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Maintenance Free one",
+        "desc": "24 / 195 V"
+      },
+      "batteryWeightxvAutomotiveStarter": {
+        "label": "Battery  Weight 4x 6V Automotive Starter",
+        "desc": "128 lb"
+      },
+      "batteryWeightxvMaintenanceFree": {
+        "label": "Battery Weight 2x 12V Maintenance Free",
+        "desc": "132 lb"
+      },
+      "batteryWeightxvSemiindustrial": {
+        "label": "Battery Weight 4x 6V Semi-Industrial",
+        "desc": "220 lb"
+      },
+      "batteryWeightxvMaintenanceFreeOne": {
+        "label": "Battery Weight 4x 6V Maintenance Free one ",
+        "desc": "267 lb"
+      }
+    },
+    "dimensions": {
+      "mastType": {
+        "label": "label",
+        "desc": "TL-110 in"
+      },
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "wheelbase": {
+        "label": "Wheelbase",
+        "desc": "49 in"
+      },
+      "wheelSizeFrontDXWPoly": {
+        "label": "Wheel Size Front (d x w Poly)",
+        "desc": "10 x 3.35 in"
+      },
+      "wheelSizeFrontDXWRubber": {
+        "label": "Wheel Size Front (d x w) Rubber",
+        "desc": "10 x 4 in"
+      },
+      "wheelSizeRearDXWPoly": {
+        "label": "Wheel Size Rear (d x w) Poly",
+        "desc": "4 x 2 in"
+      },
+      "wheelSizeRearDXWSteel": {
+        "label": "Wheel Size Rear (d x w) Steel",
+        "desc": "4 x 2 in"
+      },
+      "additionalWheelsCasterWheelDXWPoly": {
+        "label": "Additional Wheels Caster Wheel (d x w) Poly",
+        "desc": "3.54 x 2 in"
+      },
+      "trackWidthRear": {
+        "label": "Track Width Rear",
+        "desc": "Inside Straddle + 3 in"
+      },
+      "liftHeight": {
+        "label": "Lift Height",
+        "desc": "110 in"
+      },
+      "freeLift": {
+        "label": "Free Lift",
+        "desc": "6 in"
+      },
+      "collapsedHeight": {
+        "label": "Collapsed Height",
+        "desc": "75 in"
+      },
+      "extendedHeightWOLoadBackrest": {
+        "label": "Extended Height w/o Load Backrest",
+        "desc": "128 in"
+      },
+      "extendedHeightWLoadBackrest": {
+        "label": "Extended Height w/ Load Backrest",
+        "desc": "147 in"
+      },
+      "loadBackrestWidthLoadBackrestHeightInHigh": {
+        "label": "Load Backrest Width Load Backrest Height in 36\" High",
+        "desc": "30 / 36 / 42"
+      },
+      "tillerArmHeightInDrivePositionMinMax": {
+        "label": "Tiller Arm Height in Drive Position Min / Max",
+        "desc": "31.1 / 47.5 in"
+      },
+      "outriggerHeight": {
+        "label": "Outrigger Height",
+        "desc": "4 in"
+      },
+      "loweredForkHeight": {
+        "label": "Lowered Fork Height",
+        "desc": "2 in"
+      },
+      "powerUnitHeight": {
+        "label": "Power Unit Height",
+        "desc": "32.28 in"
+      },
+      "forkLengths": {
+        "label": "Fork Lengths",
+        "desc": "36 / 42 / 48 in"
+      },
+      "forkDimensionsThicknessXWidth": {
+        "label": "Fork Dimensions Thickness x Width",
+        "desc": "1.5 x 3 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithoutForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max without fork locks",
+        "desc": "6.57 - 24.8 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max with fork locks ",
+        "desc": "7.2 - 24.3 in"
+      },
+      "headlengthWithoutForkLocks": {
+        "label": "Headlength without fork locks",
+        "desc": "32.24 in"
+      },
+      "headlengthWithForkLocks": {
+        "label": "Headlength with fork locks",
+        "desc": "32.6 in"
+      },
+      "overallLength": {
+        "label": "Overall Length",
+        "desc": "Headlength + Fork Length"
+      },
+      "insideStraddle": {
+        "label": "Inside Straddle",
+        "desc": "38 - 50 in"
+      },
+      "overallWidthFront": {
+        "label": "Overall Width Front",
+        "desc": "28.03 in"
+      },
+      "overallWidthRear": {
+        "label": "Overall Width Rear",
+        "desc": "Inside Straddle + 6 in"
+      },
+      "forkCarriageWidth": {
+        "label": "Fork Carriage Width",
+        "desc": "26.57 in"
+      },
+      "maximumBatteryBoxLXWXH": {
+        "label": "Maximum Battery Box L x W x H",
+        "desc": "7.28 x 25.55 24.13 in"
+      }
+    },
+    "options": [
+      "Battery Options",
+      "Various battery options enable you to match the right battery with your application.",
+      "Load Backrest",
+      "The steel-constructed load backrest stabilizes loads and helps prevent unexpected pallet movement.",
+      "Adjustable Outriggers",
+      "Adjustable outriggers enable you to change the straddle width to suit your needs, easily handling loads of varying dimensions."
+    ],
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83406bcf224bc86a284d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8341d9bfd37eb93d6517.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83438d375a61226cff83.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83457f364862cf697226.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8347ae07f304624f300c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8348ebed752e810ed0d2.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f834a489e8903145cf198.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f834cac648a0e1b74d48c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f834dd708454a65284ad7.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f834f942a202b9267d7aa.jpg"
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f835039da997fd3340162.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f8352030615079a29ff35.pdf",
+        "attachmentName": ""
+      }
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "M 3200-20 (TL-130)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "M Series Walkie Straddle Stacker",
+      "description": "M 3200 Walkie Straddle Stacker With a capacity of 2,000 lb, the M Series walkie straddle stacker can be used as a portable workstation, is able to stack loads 2 to 3 high in racks and maneuver loads in tight aisles or work areas.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/stackers/m-intermediate-stacker.html",
+    "features": [
+      "Dependable Versatility",
+      "Crown's M Series walkie straddle stacker provides a cost-effective solution for improving space utilization and stacking loads in various applications.",
+      "Exceptional Utility    ",
+      "Experience better efficiency and all-around utility with the M Series electric walkie stacker. Stacking",
+      "capabilities save space and time. Load and unload trucks from the ground or use it as a portable workstation.",
+      "Stack Pallets for Space Savings",
+      "When compared with counterbalance forklifts, Crown pallet stackers allow you to stack more products in the same size room by narrowing the required aisle width, which translates into more usable space while optimizing selectivity.",
+      "Crown electric stackers are efficient, require less maintenance and avoid pollutants, fuel cost and engine noise.",
+      "Take Control",
+      "You need exceptional control to meet the challenges of efficiently moving and storing product in limited space. The innovative controls and compact design of the M Series electric walkie stacker enables operators to maneuver with ease.",
+      "The exclusive Crown X10 Handle with its uniquely designed handgrip, thumbwheel and raise / lower buttons, simplifies operation and enhances comfort. When maneuvering a load, the position speed control enables operators to move the handle in near vertical position while engaging traction at creep speed. When operating in tight spaces with the handle completely vertical, the vertical tiller drive function allows for fine-tuned positioning.",
+      "Operators can quickly and conveniently choose from two levels of programmable performance to match their own skill level or the particular application needs.",
+      "Reliable, Lasting Value",
+      "Crown builds long-term value into all of its lift trucks and the M Series walkie straddle stacker is no exception.",
+      "Durability is evident inside and out. The frame, mast and outriggers feature generous amounts of steel for long life and a steel power unit cover to protect internal components. The control handle is made of high-grade aluminum and benefits from structural webbing for maximum strength and durability.",
+      "Long-term performance advantages are further extended with Crown’s integrated approach to maintenance. Internal components can be accessed quickly and easily. In addition, Crown’s innovative InfoPoint system simplifies trouble-shooting for service technicians.",
+      "Crown Extended Warranty",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "options": [
+      "Battery Options",
+      "Various battery options enable you to match the right battery with your application.",
+      "Load Backrest",
+      "The steel-constructed load backrest stabilizes loads and helps prevent unexpected pallet movement.",
+      "Adjustable Outriggers",
+      "Adjustable outriggers enable you to change the straddle width to suit your needs, easily handling loads of varying dimensions."
+    ],
+    "dimensions": {
+      "mastType": {
+        "label": "label",
+        "desc": "TL-130 in"
+      },
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "wheelbase": {
+        "label": "Wheelbase",
+        "desc": "49 in"
+      },
+      "wheelSizeFrontDXWPoly": {
+        "label": "Wheel Size Front (d x w Poly)",
+        "desc": "10 x 3.35 in"
+      },
+      "wheelSizeFrontDXWRubber": {
+        "label": "Wheel Size Front (d x w) Rubber",
+        "desc": "10 x 4 in"
+      },
+      "wheelSizeRearDXWPoly": {
+        "label": "Wheel Size Rear (d x w) Poly",
+        "desc": "4 x 2 in"
+      },
+      "wheelSizeRearDXWSteel": {
+        "label": "Wheel Size Rear (d x w) Steel",
+        "desc": "4 x 2 in"
+      },
+      "additionalWheelsCasterWheelDXWPoly": {
+        "label": "Additional Wheels Caster Wheel (d x w) Poly",
+        "desc": "3.54 x 2 in"
+      },
+      "trackWidthRear": {
+        "label": "Track Width Rear",
+        "desc": "Inside Straddle + 3 in"
+      },
+      "liftHeight": {
+        "label": "Lift Height",
+        "desc": "130 in"
+      },
+      "freeLift": {
+        "label": "Free Lift",
+        "desc": "6 in"
+      },
+      "collapsedHeight": {
+        "label": "Collapsed Height",
+        "desc": "85 in"
+      },
+      "extendedHeightWOLoadBackrest": {
+        "label": "Extended Height w/o Load Backrest",
+        "desc": "148 in"
+      },
+      "extendedHeightWLoadBackrest": {
+        "label": "Extended Height w/ Load Backrest",
+        "desc": "167 in"
+      },
+      "loadBackrestWidthLoadBackrestHeightInHigh": {
+        "label": "Load Backrest Width Load Backrest Height in 36\" High",
+        "desc": "30 / 36 / 42"
+      },
+      "tillerArmHeightInDrivePositionMinMax": {
+        "label": "Tiller Arm Height in Drive Position Min / Max",
+        "desc": "31.1 / 47.5 in"
+      },
+      "outriggerHeight": {
+        "label": "Outrigger Height",
+        "desc": "4 in"
+      },
+      "loweredForkHeight": {
+        "label": "Lowered Fork Height",
+        "desc": "2 in"
+      },
+      "powerUnitHeight": {
+        "label": "Power Unit Height",
+        "desc": "32.28 in"
+      },
+      "forkLengths": {
+        "label": "Fork Lengths",
+        "desc": "36 / 42 / 48 in"
+      },
+      "forkDimensionsThicknessXWidth": {
+        "label": "Fork Dimensions Thickness x Width",
+        "desc": "1.5 x 3 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithoutForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max without fork locks",
+        "desc": "6.57 - 24.8 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max with fork locks ",
+        "desc": "7.2 - 24.3 in"
+      },
+      "headlengthWithoutForkLocks": {
+        "label": "Headlength without fork locks",
+        "desc": "32.24 in"
+      },
+      "headlengthWithForkLocks": {
+        "label": "Headlength with fork locks",
+        "desc": "32.6 in"
+      },
+      "overallLength": {
+        "label": "Overall Length",
+        "desc": "Headlength + Fork Length"
+      },
+      "insideStraddle": {
+        "label": "Inside Straddle",
+        "desc": "38 - 50 in"
+      },
+      "overallWidthFront": {
+        "label": "Overall Width Front",
+        "desc": "28.03 in"
+      },
+      "overallWidthRear": {
+        "label": "Overall Width Rear",
+        "desc": "Inside Straddle + 6 in"
+      },
+      "forkCarriageWidth": {
+        "label": "Fork Carriage Width",
+        "desc": "26.57 in"
+      },
+      "groundClearanceWLoadBelowMast": {
+        "label": "Ground Clearance w/ Load below Mast",
+        "desc": "1.57 in"
+      },
+      "groundClearanceCenterWheelbase": {
+        "label": "Ground Clearance Center Wheelbase",
+        "desc": "1.57 in"
+      },
+      "turningRadius": {
+        "label": "Turning Radius",
+        "desc": "56.73 in"
+      },
+      "lengthWOutriggers": {
+        "label": "Length w/ Outriggers",
+        "desc": "60.28 in"
+      },
+      "maximumBatteryBoxLXWXH": {
+        "label": "Maximum Battery Box L x W x H",
+        "desc": "7.28 x 25.55 24.13 in"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "power": {
+        "label": "Power",
+        "desc": "Electric"
+      },
+      "operatorType": {
+        "label": "Operator Type",
+        "desc": "Walkie"
+      },
+      "loadCapacity": {
+        "label": "Load Capacity",
+        "desc": "2000 lb"
+      },
+      "weightLessBattery": {
+        "label": "Weight Less Battery",
+        "desc": "1746 lb"
+      },
+      "wheelsNumberXDrivenFrontRear": {
+        "label": "Wheels Number (x = driven) Front / Rear",
+        "desc": "1x / 2"
+      },
+      "capacityAtLiftHeightMmLc": {
+        "label": "Capacity at Lift Height 24\" (600 mm) LC",
+        "desc": "2000 lb"
+      },
+      "capacityAtLiftHeightOneMmLc": {
+        "label": "Capacity at Lift Height one 26\" (660 mm) LC",
+        "desc": "1815 lb"
+      },
+      "capacityAtLiftHeightTwoMmLc": {
+        "label": "Capacity at Lift Height two 28\" (711 mm) LC",
+        "desc": "1685 lb"
+      },
+      "capacityAtLiftHeightThreeMmLc": {
+        "label": "Capacity at Lift Height three 30\" (762 mm) LC",
+        "desc": "1570 lb"
+      },
+      "travelSpeedWWoLoad": {
+        "label": "Travel Speed w/ wo Load",
+        "desc": "3.11 / 3.42 mph"
+      },
+      "liftSpeedWWoLoad": {
+        "label": "Lift Speed w/ wo Load",
+        "desc": "27.56 / 43.31 fpm"
+      },
+      "loweringSpeedWWoLoad": {
+        "label": "Lowering Speed w/ wo Load",
+        "desc": "51.18 / 43.31 fpm"
+      },
+      "gradeabilityWWoLoadOneMinRating": {
+        "label": "Gradeability w/ wo Load one, 60 min Rating %",
+        "desc": "2.4 / 4.5"
+      },
+      "gradeabilityWWoLoadMinRating": {
+        "label": "Gradeability w/ wo Load, 30 min Rating %",
+        "desc": "4.9 / 9.1"
+      },
+      "maxGradeabilityWWoLoadTwoMinRating": {
+        "label": "Max Gradeability w/ wo Load two, 5 min Rating %",
+        "desc": "8.4 / 15.7"
+      },
+      "serviceBrake": {
+        "label": "Service Brake",
+        "desc": "Electric"
+      },
+      "typeOfControllerDrive": {
+        "label": "Type of Controller Drive",
+        "desc": "Transistor"
+      }
+    },
+    "battery": {
+      "batteryVoltagenominalCapacityHourRatingxvAutomotiveStarter": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating)4x 6V Automotive Starter",
+        "desc": "24 / 87 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFree": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 2x 12V Maintenance Free",
+        "desc": "24 / 95 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvSemiindustrial": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Semi-Industrial",
+        "desc": "24 / 156 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFreeOne": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Maintenance Free one",
+        "desc": "24 / 195 V"
+      },
+      "batteryWeightxvAutomotiveStarter": {
+        "label": "Battery  Weight 4x 6V Automotive Starter",
+        "desc": "128 lb"
+      },
+      "batteryWeightxvMaintenanceFree": {
+        "label": "Battery Weight 2x 12V Maintenance Free",
+        "desc": "132 lb"
+      },
+      "batteryWeightxvSemiindustrial": {
+        "label": "Battery Weight 4x 6V Semi-Industrial",
+        "desc": "220 lb"
+      },
+      "batteryWeightxvMaintenanceFreeOne": {
+        "label": "Battery Weight 4x 6V Maintenance Free one ",
+        "desc": "267 lb"
+      }
+    },
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8354e936256d1c14b14b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83561247f351ec216f6f.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f835753e3d27bf8464305.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f835954c97e0f3c43df55.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f835a2b5a706f0c163184.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f835c7294546ad9539bd7.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f835e66b4bd6a1a2c8728.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8360b23d5313480ee037.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8361401087740e58d195.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8363ab83f46f5d39855c.jpg"
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f83654df36f0cd76a6a8f.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f8367d2d2c92323232f42.pdf",
+        "attachmentName": ""
+      }
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "M 3200-20 (TL-144)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "M Series Walkie Straddle Stacker",
+      "description": "M 3200 Walkie Straddle Stacker With a capacity of 2,000 lb, the M Series walkie straddle stacker can be used as a portable workstation, is able to stack loads 2 to 3 high in racks and maneuver loads in tight aisles or work areas.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/stackers/m-intermediate-stacker.html",
+    "features": [
+      "Dependable Versatility",
+      "Crown's M Series walkie straddle stacker provides a cost-effective solution for improving space utilization and stacking loads in various applications.",
+      "Exceptional Utility    ",
+      "Experience better efficiency and all-around utility with the M Series electric walkie stacker. Stacking",
+      "capabilities save space and time. Load and unload trucks from the ground or use it as a portable workstation.",
+      "Stack Pallets for Space Savings",
+      "When compared with counterbalance forklifts, Crown pallet stackers allow you to stack more products in the same size room by narrowing the required aisle width, which translates into more usable space while optimizing selectivity.",
+      "Crown electric stackers are efficient, require less maintenance and avoid pollutants, fuel cost and engine noise.",
+      "Take Control",
+      "You need exceptional control to meet the challenges of efficiently moving and storing product in limited space. The innovative controls and compact design of the M Series electric walkie stacker enables operators to maneuver with ease.",
+      "The exclusive Crown X10 Handle with its uniquely designed handgrip, thumbwheel and raise / lower buttons, simplifies operation and enhances comfort. When maneuvering a load, the position speed control enables operators to move the handle in near vertical position while engaging traction at creep speed. When operating in tight spaces with the handle completely vertical, the vertical tiller drive function allows for fine-tuned positioning.",
+      "Operators can quickly and conveniently choose from two levels of programmable performance to match their own skill level or the particular application needs.",
+      "Reliable, Lasting Value",
+      "Crown builds long-term value into all of its lift trucks and the M Series walkie straddle stacker is no exception.",
+      "Durability is evident inside and out. The frame, mast and outriggers feature generous amounts of steel for long life and a steel power unit cover to protect internal components. The control handle is made of high-grade aluminum and benefits from structural webbing for maximum strength and durability.",
+      "Long-term performance advantages are further extended with Crown’s integrated approach to maintenance. Internal components can be accessed quickly and easily. In addition, Crown’s innovative InfoPoint system simplifies trouble-shooting for service technicians.",
+      "Crown Extended Warranty",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "options": [
+      "Battery Options",
+      "Various battery options enable you to match the right battery with your application.",
+      "Load Backrest",
+      "The steel-constructed load backrest stabilizes loads and helps prevent unexpected pallet movement.",
+      "Adjustable Outriggers",
+      "Adjustable outriggers enable you to change the straddle width to suit your needs, easily handling loads of varying dimensions."
+    ],
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8369db06512501371be8.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f836b1ebc1a5e3016bc91.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f836d054f255b3d76eac3.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f836e6be9f71e4966244e.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f837003ffb53e0323dc2d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8371f0ee0c67ab71dd86.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8373ac648a0e1b74d49b.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8375c6e62668724ead4d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8376957ee27fe96cf711.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8377831fb8240e59d613.jpg"
+      }
+    ],
+    "dimensions": {
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "wheelbase": {
+        "label": "Wheelbase",
+        "desc": "49 in"
+      },
+      "wheelSizeFrontDXWPoly": {
+        "label": "Wheel Size Front (d x w Poly)",
+        "desc": "10 x 3.35 in"
+      },
+      "wheelSizeFrontDXWRubber": {
+        "label": "Wheel Size Front (d x w) Rubber",
+        "desc": "10 x 4 in"
+      },
+      "wheelSizeRearDXWPoly": {
+        "label": "Wheel Size Rear (d x w) Poly",
+        "desc": "4 x 2 in"
+      },
+      "wheelSizeRearDXWSteel": {
+        "label": "Wheel Size Rear (d x w) Steel",
+        "desc": "4 x 2 in"
+      },
+      "additionalWheelsCasterWheelDXWPoly": {
+        "label": "Additional Wheels Caster Wheel (d x w) Poly",
+        "desc": "3.54 x 2 in"
+      },
+      "trackWidthRear": {
+        "label": "Track Width Rear",
+        "desc": "Inside Straddle + 3 in"
+      },
+      "liftHeight": {
+        "label": "Lift Height",
+        "desc": "144 in"
+      },
+      "freeLift": {
+        "label": "Free Lift",
+        "desc": "6 in"
+      },
+      "collapsedHeight": {
+        "label": "Collapsed Height",
+        "desc": "91 in"
+      },
+      "extendedHeightWOLoadBackrest": {
+        "label": "Extended Height w/o Load Backrest",
+        "desc": "161 in"
+      },
+      "extendedHeightWLoadBackrest": {
+        "label": "Extended Height w/ Load Backrest",
+        "desc": "180 in"
+      },
+      "loadBackrestWidthLoadBackrestHeightInHigh": {
+        "label": "Load Backrest Width Load Backrest Height in 36\" High",
+        "desc": "30 / 36 / 42"
+      },
+      "tillerArmHeightInDrivePositionMinMax": {
+        "label": "Tiller Arm Height in Drive Position Min / Max",
+        "desc": "31.1 / 47.5 in"
+      },
+      "outriggerHeight": {
+        "label": "Outrigger Height",
+        "desc": "4 in"
+      },
+      "loweredForkHeight": {
+        "label": "Lowered Fork Height",
+        "desc": "2 in"
+      },
+      "powerUnitHeight": {
+        "label": "Power Unit Height",
+        "desc": "32.28 in"
+      },
+      "forkLengths": {
+        "label": "Fork Lengths",
+        "desc": "36 / 42 / 48 in"
+      },
+      "forkDimensionsThicknessXWidth": {
+        "label": "Fork Dimensions Thickness x Width",
+        "desc": "1.5 x 3 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithoutForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max without fork locks",
+        "desc": "6.57 - 24.8 in"
+      },
+      "widthAcrossForksAdjustableMinMaxWithForkLocks": {
+        "label": "Width Across Forks Adjustable Min / Max ",
+        "desc": "7.2 - 24.3 in"
+      },
+      "headlengthWithoutForkLocks": {
+        "label": "Headlength without fork locks",
+        "desc": "32.24 in"
+      },
+      "headlengthWithForkLocks": {
+        "label": "Headlength with fork locks",
+        "desc": "32.6 in"
+      },
+      "overallLength": {
+        "label": "Overall Length",
+        "desc": "Headlength + Fork Length"
+      },
+      "insideStraddle": {
+        "label": "Inside Straddle",
+        "desc": "38 - 50 in"
+      },
+      "overallWidthFront": {
+        "label": "Overall Width Front",
+        "desc": "28.03 in"
+      },
+      "overallWidthRear": {
+        "label": "Overall Width Rear",
+        "desc": "Inside Straddle + 6 in"
+      },
+      "forkCarriageWidth": {
+        "label": "Fork Carriage Width",
+        "desc": "26.57 in"
+      },
+      "groundClearanceWLoadBelowMast": {
+        "label": "Ground Clearance w/ Load below Mast",
+        "desc": "1.57 in"
+      },
+      "groundClearanceCenterWheelbase": {
+        "label": "Ground Clearance Center Wheelbase",
+        "desc": "1.57 in"
+      },
+      "turningRadius": {
+        "label": "Turning Radius",
+        "desc": "56.73 in"
+      },
+      "lengthWOutriggers": {
+        "label": "Length w/ Outriggers",
+        "desc": "60.28 in"
+      },
+      "maximumBatteryBoxLXWXH": {
+        "label": "Maximum Battery Box L x W x H",
+        "desc": "7.28 x 25.55 24.13 in"
+      }
+    },
+    "battery": {
+      "batteryVoltagenominalCapacityHourRatingxvAutomotiveStarter": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating)4x 6V Automotive Starter",
+        "desc": "24 / 87 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFree": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 2x 12V Maintenance Free",
+        "desc": "24 / 95 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvSemiindustrial": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Semi-Industrial",
+        "desc": "24 / 156 V"
+      },
+      "batteryVoltagenominalCapacityHourRatingxvMaintenanceFreeOne": {
+        "label": "Battery Voltage (Nominal Capacity 6 Hour Rating) 4x 6V Maintenance Free one",
+        "desc": "24 / 195 V"
+      },
+      "batteryWeightxvAutomotiveStarter": {
+        "label": "Battery  Weight 4x 6V Automotive Starter",
+        "desc": "128 lb"
+      },
+      "batteryWeightxvMaintenanceFree": {
+        "label": "Battery Weight 2x 12V Maintenance Free",
+        "desc": "132 lb"
+      },
+      "batteryWeightxvSemiindustrial": {
+        "label": "Battery Weight 4x 6V Semi-Industrial",
+        "desc": "220 lb"
+      },
+      "batteryWeightxvMaintenanceFreeOne": {
+        "label": "Battery Weight 4x 6V Maintenance Free one ",
+        "desc": "267 lb"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "power": {
+        "label": "Power",
+        "desc": "Electric"
+      },
+      "operatorType": {
+        "label": "Operator Type",
+        "desc": "Walkie"
+      },
+      "loadCapacity": {
+        "label": "Load Capacity",
+        "desc": "2000 lb"
+      },
+      "weightLessBattery": {
+        "label": "Weight Less Battery",
+        "desc": "1775 lb"
+      },
+      "wheelsNumberXDrivenFrontRear": {
+        "label": "Wheels Number (x = driven) Front / Rear",
+        "desc": "1x / 2"
+      },
+      "capacityAtLiftHeightMmLc": {
+        "label": "Capacity at Lift Height 24\" (600 mm) LC",
+        "desc": "2000 lb"
+      },
+      "capacityAtLiftHeightOneMmLc": {
+        "label": "Capacity at Lift Height one 26\" (660 mm) LC",
+        "desc": "1815 lb"
+      },
+      "capacityAtLiftHeightTwoMmLc": {
+        "label": "Capacity at Lift Height two 28\" (711 mm) LC",
+        "desc": "1685 lb"
+      },
+      "capacityAtLiftHeightThreeMmLc": {
+        "label": "Capacity at Lift Height three 30\" (762 mm) LC",
+        "desc": "1570 lb"
+      },
+      "travelSpeedWWoLoad": {
+        "label": "Travel Speed w/ wo Load",
+        "desc": "3.11 / 3.42 mph"
+      },
+      "liftSpeedWWoLoad": {
+        "label": "Lift Speed w/ wo Load",
+        "desc": "27.56 / 43.31 fpm"
+      },
+      "loweringSpeedWWoLoad": {
+        "label": "Lowering Speed w/ wo Load",
+        "desc": "51.18 / 43.31 fpm"
+      },
+      "gradeabilityWWoLoadOneMinRating": {
+        "label": "Gradeability w/ wo Load one, 60 min Rating %",
+        "desc": "2.4 / 4.5"
+      },
+      "gradeabilityWWoLoadMinRating": {
+        "label": "Gradeability w/ wo Load, 30 min Rating %",
+        "desc": "4.9 / 9.1"
+      },
+      "maxGradeabilityWWoLoadTwoMinRating": {
+        "label": "Max Gradeability w/ wo Load two, 5 min Rating %",
+        "desc": "8.4 / 15.7"
+      },
+      "serviceBrake": {
+        "label": "Service Brake",
+        "desc": "Electric"
+      },
+      "typeOfControllerDrive": {
+        "label": "Type of Controller Drive",
+        "desc": "Transistor"
+      }
+    },
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f8379030615079a29ff3b.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f837a4471db141e1669a4.pdf",
+        "attachmentName": ""
+      }
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "TSP 1000-33 (TN/TF Mast)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Turret Truck",
+      "description": "The TSP 1000 Series has a max lift height of 531 inches and offers versatility in a VNA turret forklift to handle a wide range of warehousing challenges, including full pallet handling and case picking.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/man-up-order-pickers/tsp-turret-stockpicker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83800edc0c71e42fd6d0.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83822654bd0f7b693499.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8383a345f11ef860f79b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83853437b0772d62a27b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8387896bcd6b667723b6.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83881ebc1a5e3016bc9c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f838a924b8251ba0c0727.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f838bebef337f123165a9.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f838d5e823331314c82db.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f838e480bc33eb41f2fb8.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83904e58014c0a43fd6e.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f839177b592474b38a24f.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83939422b53d0f15ef33.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f839401025b270c2137ff.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83955a07002c021b9d66.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://youtu.be/OvkNeV6vmkk",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/Hs5lYSWQcCI",
+        "desc": "",
+        "longDesc": ""
+      }
+    ],
+    "dimensions": {
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "loadDistance": {
+        "label": "Load Distance",
+        "desc": "15 in"
+      },
+      "wheelBaseAaBatteryCompartment": {
+        "label": "Wheel Base “AA”Battery Compartment ",
+        "desc": "76.8 in"
+      },
+      "wheelBaseABatteryCompartment": {
+        "label": "Wheel Base “A” Battery Compartment",
+        "desc": "80.1 in"
+      },
+      "wheelBaseBBatteryCompartment": {
+        "label": "Wheel Base “B” Battery Compartment",
+        "desc": "83.5 in"
+      },
+      "wheelBaseCBatteryCompartment": {
+        "label": "Wheel Base “C” Battery Compartment",
+        "desc": "89.2 in"
+      },
+      "tireSizeFrontLoadWheels": {
+        "label": "Tire Size Front (Load Wheels)",
+        "desc": "14 x 8 in"
+      },
+      "tireSizeRearDriveTire": {
+        "label": "Tire Size Rear (Drive Tire)",
+        "desc": "16 x 6.7 in"
+      },
+      "standHeightLowered": {
+        "label": "Stand Height (Lowered)",
+        "desc": "18-95 in"
+      },
+      "cabinWidth": {
+        "label": "Cabin Width",
+        "desc": "48, 52, 58 in"
+      },
+      "forkHeightLowered": {
+        "label": "Fork Height (Lowered)",
+        "desc": "3 in"
+      },
+      "traverseFrameWidthPlatform": {
+        "label": "Traverse Frame Width 48\" Platform",
+        "desc": "48, 49, 50, 51 in"
+      },
+      "traverseFrameWidthOnePlatform": {
+        "label": "Traverse Frame Width one 52\" Platform",
+        "desc": "52, 53, 54, 55, 56†, 57† in"
+      },
+      "traverseFrameWidthTwoPlatform": {
+        "label": "Traverse Frame Width two 58\" Platform",
+        "desc": "58, 59, 60, 61, 62†, 63† in"
+      },
+      "traverseFrameWidthThreePlatform": {
+        "label": "Traverse Frame Width three 64\" Platform",
+        "desc": "64, 65, 66, 67, 68, 69 in"
+      },
+      "overallLengthWithMmLoadHandlerAaBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “AA” Battery Compartment",
+        "desc": "141.7 in"
+      },
+      "overallLengthWithMmLoadHandlerABatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “A” Battery Compartment",
+        "desc": "145 in"
+      },
+      "overallLengthWithMmLoadHandlerBBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “B” Battery Compartment",
+        "desc": "148.4 in"
+      },
+      "overallLengthWithMmLoadHandlerCBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “C” Battery Compartment",
+        "desc": "154.1 in"
+      },
+      "headLengthAaBatteryCompartment": {
+        "label": "Head Length “AA” Battery Compartment",
+        "desc": "103.7 in"
+      },
+      "headLengthABatteryCompartment": {
+        "label": "Head Length “A” Battery Compartment",
+        "desc": "107 in"
+      },
+      "headLengthBBatteryCompartment": {
+        "label": "Head Length “B” Battery Compartment",
+        "desc": "110.4 in"
+      },
+      "headLengthCBatteryCompartment": {
+        "label": "Head Length “C” Battery Compartment",
+        "desc": "116.1 in"
+      },
+      "overallWidthFrontRearOawIncrements": {
+        "label": "Overall Width (Front/Rear) (OAW) 1\"  increments",
+        "desc": "48 – 82 in"
+      },
+      "overallWidthOperatorPlatformInMm": {
+        "label": "Overall Width (Operator Platform) in mm",
+        "desc": "48, 52, 58, 64 in"
+      },
+      "forkDimensionsTelescopicLXWXT": {
+        "label": "Fork Dimensions Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48, 54 x 5.9 x 2.25 in"
+      },
+      "forkDimensionsNonTelescopicLXWXT": {
+        "label": "Fork Dimensions Non-Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48 x 4 x 1.75 in"
+      },
+      "widthAcrossGuideRollerIncrements": {
+        "label": "Width Across Guide Roller .25\"  increments",
+        "desc": "1.25 – 8.75 (32 – 222) greater than OAW, Item 4.21"
+      },
+      "groundClearance": {
+        "label": "Ground Clearance",
+        "desc": "1.8 in"
+      },
+      "loadHandlerLengthStandard": {
+        "label": "Load Handler Length Standard",
+        "desc": "23 or 27 in"
+      },
+      "loadHandlerLengthOptional": {
+        "label": "Load Handler Length Optional",
+        "desc": "30, 33, 36, 39, 42, 45,48, 51, 54 in"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerSourceElectric": {
+        "label": "Power Source Electric",
+        "desc": "48 Volt"
+      },
+      "operatorTypeSitStandRider": {
+        "label": "Operator Type Sit / Stand Rider",
+        "desc": "Turret Stockpicker"
+      },
+      "ratedCapacityMmLoadCenter": {
+        "label": "Rated Capacity* 24\" (610 mm) Load Center",
+        "desc": "3300 lb"
+      },
+      "serviceWeightLessBattery": {
+        "label": "Service Weight Less Battery",
+        "desc": "15,675 – 20,040 lb"
+      },
+      "tiresLoadDrive": {
+        "label": "Tires Load / Drive",
+        "desc": "Poly"
+      },
+      "wheelsLoadDrive": {
+        "label": "Wheels Load / Drive",
+        "desc": "2 / 1"
+      },
+      "liftSpeedMainMastEmptyLoaded": {
+        "label": "Lift Speed Main Mast   Empty / Loaded",
+        "desc": "95 / 85** fpm"
+      },
+      "liftSpeedAuxiliaryMastEmptyLoaded": {
+        "label": "Lift Speed Auxiliary Mast Empty / Loaded",
+        "desc": "80 / 80 fpm"
+      },
+      "loweringSpeedMainMastEmptyLoaded": {
+        "label": "Lowering Speed Main Mast   Empty / Loaded",
+        "desc": "88 / 88 fpm"
+      },
+      "loweringSpeedAuxiliaryMastEmptyLoaded": {
+        "label": "Lowering Speed Auxiliary Mast Empty / Loaded",
+        "desc": "65 / 80 fpm"
+      },
+      "speedTraverse": {
+        "label": "Speed Traverse",
+        "desc": "4- 12 ips"
+      },
+      "speedPivotRotation": {
+        "label": "Speed Pivot 180° Rotation",
+        "desc": "6 - 10 sec"
+      },
+      "brakesDriveUnitQuantity": {
+        "label": "Brakes Drive Unit Quantity",
+        "desc": "1"
+      },
+      "brakesBrakeType": {
+        "label": "Brakes Brake Type",
+        "desc": "Mechanically Applied, Electrically Released"
+      },
+      "tractionMotorRatingAtSMinutesKw": {
+        "label": "Traction Motor (Rating at S2 60 minutes) kW",
+        "desc": "11.9 at 48 V"
+      },
+      "pumpMotorRatingAtSKw": {
+        "label": "Pump Motor (Rating at S3 30%) kW",
+        "desc": "23"
+      },
+      "driveUnit": {
+        "label": "Drive Unit",
+        "desc": "AC traction"
+      }
+    },
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f8397106e8f68e928d4dc.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f639f28196b05222ff43f.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "features": [
+      "Achieve Capacity in Very Narrow Aisles",
+      "The TSP Series turret forklift features a stronger mast, higher reach, and narrow footprint, allowing you to make the most of your storage space.",
+      "Crown’s MonoLift Mast provides the stability needed for operators and loads up to six stories in the air.",
+      "Crown’s exclusive MonoLift mast includes strengthened boxed-in sections and heavy gauge steel. As a result, there’s less twisting and swaying than with traditional, dual upright masts.",
+      "Performance to Optimize Every Cycle",
+      "With the TSP Series turret truck, you can travel, lift and handle loads faster – and run longer – for improved throughput. Faster travel and quicker pivot and traverse speeds ensure efficiency in every cycle.",
+      "Also contributing to overall performance, the regenerative lower system recaptures lost energy while larger batteries provide access to more power, fewer battery changes and longer shift life.",
+      "Built-in Intelligence",
+      "The TSP Series combines enhanced safety with productivity and usability. Intelligent systems provide contextual guidance to help increase operator awareness and promotes a safe and productive working environment. At the same time, the smart technology provides a platform for growth, scalable to meet your future application needs.",
+      "The Gena operating system provides operators with an intuitive, data-rich experience that's fully integrated into the turret truck's architecture and can be updated wirelessly. Its 7\" touch screen is programmable in 25 languages. Customizable widgets help operators reach new levels of productivity.",
+      "The TSP Series turret trucks regularly display safety messages to remind operators of their training. Clear interactive displays, automated assistance and coaching and context-sensitive alerts further enhance performance and productivity.",
+      "Control to Optimize Every Move",
+      "Unmatched comfort, control, and safety enable operators to perform with confidence, all shift long.",
+      "Crown’s TSP Series turret forklift provides excellent flexibility and comfort with the MoveControl seat. Its integrated controls and full adjustability support every operator move.",
+      "Crown’s operator-centric design offers features that support operator control with every move.",
+      "Uptime To Be Ready Every Shift",
+      "Durability, energy efficiency, and ease of maintenance minimize downtime to keep the TSP Series running strong.",
+      "The Crown TSP Series turret truck combines steel-enforced durability, proven technology and ease of serviceability all in one.",
+      "Crown Extended Warranty",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "options": [
+      "Lead-Acid Power",
+      "V-Force Lead-Acid Batteries offer the advantages of lower initial cost than other battery technologies and proven, trusted performance for light to heavy duty cycles, from one to three shifts. With proper maintenance, they can support conventional, opportunity and fast charging, delivering reliable energy when it’s needed.",
+      "Lithium-Ion Power",
+      "V-Force Lithium-Ion Energy Storage Systems can improve performance and productivity, with technology that provides more consistent power output throughout the entire battery discharge cycle. Shorter recharge times and better charge acceptance characteristics make them great alternative power solutions for opportunity and fast charging applications.",
+      "Wire Guidance",
+      "Wire guidance automates steering control, allowing for minimal aisle widths.",
+      "Rail Guidance",
+      "Rail guidance automates steering control, allowing for minimal aisle widths. Rail guidance is not affected by facility power outages.",
+      "Triple Telescopic Mast",
+      "Crown’s TT Mast option provides extreme lift heights and low collapsed heights, allowing very tall trucks to easily navigate tunnels and other obstructions such as conveyors and mezzanines.",
+      "Freezer Cabin",
+      "The spacious enclosed freezer cabin provides a heated, comfortable work environment in temperature extreme applications. The cabin also affords exceptional visibility that contributes to operator productivity and shift endurance.",
+      "Narrow Front Rail",
+      "The narrow front rail was designed for floor picking applications. With this feature, operators get on and off truck in tight aisles quickly, safely and easily.",
+      "For even greater productivity, advanced features like the optional Auto Positioning System enable the TSP Series to take the most effective route to the next rack location, increasing productivity up to 25%. The TSP Series’ optional Auto Fence helps promote safety by automatically slowing travel speed, stopping or limiting truck height within the VNA (very narrow aisle) based on the location of the truck.",
+      "The optional Capacity Data Monitor provides load weights, lift heights and capacity limits at a glance. Color-coded visuals are designed to alert the operator of current status, so they stay within specified load limits.",
+      "Crown's optional InfoLink Operator and Fleet Management System helps promote safe operating behavior with features including access control, visual inspection checklists, impact detection and alerts, or equipment lockout. Real-time and historical data reveal areas of risk and identify areas of opportunity"
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "TSP 1000-33 (TT)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Turret Truck",
+      "description": "The TSP 1000 Series has a max lift height of 531 inches and offers versatility in a VNA turret forklift to handle a wide range of warehousing challenges, including full pallet handling and case picking.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/man-up-order-pickers/tsp-turret-stockpicker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83997b9c8b04454eca19.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f839be19aec3a521a71a5.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f839c2f73041b8d4c22d9.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f839e211695185b00bde5.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83a0daacdf3f4e5912b0.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83a113178c36a41de421.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83a36912290483340ea1.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83a5d213cf1fca5bf69c.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83a7b15e0f3cda21bad1.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83a89600fb355815ec83.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83aac8eb207026373202.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83ab40b07c5172276152.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83ad0e70b84fe641158c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83af3d8fcd705c70d187.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83b091bcc820115cd3fb.jpg"
+      }
+    ],
+    "dimensions": {
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "loadDistance": {
+        "label": "Load Distance",
+        "desc": "16 in"
+      },
+      "wheelBaseAaBatteryCompartment": {
+        "label": "Wheel Base “AA”Battery Compartment ",
+        "desc": "80.3 in"
+      },
+      "wheelBaseABatteryCompartment": {
+        "label": "Wheel Base “A” Battery Compartment",
+        "desc": "83.6 in"
+      },
+      "wheelBaseBBatteryCompartment": {
+        "label": "Wheel Base “B” Battery Compartment",
+        "desc": "87 in"
+      },
+      "wheelBaseCBatteryCompartment": {
+        "label": "Wheel Base “C” Battery Compartment",
+        "desc": "92.7 in"
+      },
+      "tireSizeFrontLoadWheels": {
+        "label": "Tire Size Front (Load Wheels)",
+        "desc": "14 x 8 in"
+      },
+      "tireSizeRearDriveTire": {
+        "label": "Tire Size Rear (Drive Tire)",
+        "desc": "16 x 6.7 in"
+      },
+      "standHeightLowered": {
+        "label": "Stand Height (Lowered)",
+        "desc": "18-95 in"
+      },
+      "cabinWidth": {
+        "label": "Cabin Width",
+        "desc": "48, 52, 58 in"
+      },
+      "forkHeightLowered": {
+        "label": "Fork Height (Lowered)",
+        "desc": "3 in"
+      },
+      "traverseFrameWidthPlatform": {
+        "label": "Traverse Frame Width 48\" Platform",
+        "desc": "48, 49, 50, 51 in"
+      },
+      "traverseFrameWidthOnePlatform": {
+        "label": "Traverse Frame Width one 52\" Platform",
+        "desc": "52, 53, 54, 55, 56†, 57† in"
+      },
+      "traverseFrameWidthTwoPlatform": {
+        "label": "Traverse Frame Width two 58\" Platform",
+        "desc": "58, 59, 60, 61, 62†, 63† in"
+      },
+      "traverseFrameWidthThreePlatform": {
+        "label": "Traverse Frame Width three 64\" Platform",
+        "desc": "64, 65, 66, 67, 68, 69 in"
+      },
+      "overallLengthWithMmLoadHandlerAaBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “AA” Battery Compartment",
+        "desc": "146.2 in"
+      },
+      "overallLengthWithMmLoadHandlerABatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “A” Battery Compartment",
+        "desc": "149.5 in"
+      },
+      "overallLengthWithMmLoadHandlerBBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “B” Battery Compartment",
+        "desc": "152.9 in"
+      },
+      "overallLengthWithMmLoadHandlerCBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “C” Battery Compartment",
+        "desc": "158.6 in"
+      },
+      "headLengthAaBatteryCompartment": {
+        "label": "Head Length “AA” Battery Compartment",
+        "desc": "108.2 in"
+      },
+      "headLengthABatteryCompartment": {
+        "label": "Head Length “A” Battery Compartment",
+        "desc": "111.5 in"
+      },
+      "headLengthBBatteryCompartment": {
+        "label": "Head Length “B” Battery Compartment",
+        "desc": "114.9 in"
+      },
+      "headLengthCBatteryCompartment": {
+        "label": "Head Length “C” Battery Compartment",
+        "desc": "120.6 in"
+      },
+      "overallWidthFrontRearOawIncrements": {
+        "label": "Overall Width (Front/Rear) (OAW) 1\"  increments",
+        "desc": "48 – 82 in"
+      },
+      "overallWidthOperatorPlatformInMm": {
+        "label": "Overall Width (Operator Platform) in mm",
+        "desc": "48, 52, 58, 64in"
+      },
+      "forkDimensionsTelescopicLXWXT": {
+        "label": "Fork Dimensions Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48, 54 x 5.9 x 2.25 in"
+      },
+      "forkDimensionsNonTelescopicLXWXT": {
+        "label": "Fork Dimensions Non-Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48 x 4 x 1.75 in"
+      },
+      "widthAcrossGuideRollerIncrements": {
+        "label": "Width Across Guide Roller .25\"  increments",
+        "desc": "1.25 – 8.75 (32 – 222) greater than OAW, Item 4.21"
+      },
+      "groundClearance": {
+        "label": "Ground Clearance",
+        "desc": "1.8 in"
+      },
+      "loadHandlerLengthStandard": {
+        "label": "Load Handler Length Standard",
+        "desc": "23 or 27 in"
+      },
+      "loadHandlerLengthOptional": {
+        "label": "Load Handler Length Optional",
+        "desc": "30, 33, 36, 39, 42, 45,48, 51, 54 in"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerSourceElectric": {
+        "label": "Power Source Electric",
+        "desc": "48 Volt"
+      },
+      "operatorTypeSitStandRider": {
+        "label": "Operator Type Sit / Stand Rider",
+        "desc": "Turret Stockpicker"
+      },
+      "ratedCapacityMmLoadCenter": {
+        "label": "Rated Capacity* 24\" (610 mm) Load Center",
+        "desc": "3300 lb"
+      },
+      "serviceWeightLessBattery": {
+        "label": "Service Weight Less Battery",
+        "desc": "15,675 – 20,040 lb"
+      },
+      "tiresLoadDrive": {
+        "label": "Tires Load / Drive",
+        "desc": "Poly"
+      },
+      "wheelsLoadDrive": {
+        "label": "Wheels Load / Drive",
+        "desc": "2 / 1"
+      },
+      "liftSpeedMainMastEmptyLoaded": {
+        "label": "Lift Speed Main Mast   Empty / Loaded",
+        "desc": "80 / 75** fpm"
+      },
+      "liftSpeedAuxiliaryMastEmptyLoaded": {
+        "label": "Lift Speed Auxiliary Mast Empty / Loaded",
+        "desc": "80 / 80 fpm"
+      },
+      "loweringSpeedMainMastEmptyLoaded": {
+        "label": "Lowering Speed Main Mast   Empty / Loaded",
+        "desc": "88 / 88 fpm"
+      },
+      "loweringSpeedAuxiliaryMastEmptyLoaded": {
+        "label": "Lowering Speed Auxiliary Mast Empty / Loaded",
+        "desc": "65 / 80 fpm"
+      },
+      "speedTraverse": {
+        "label": "Speed Traverse",
+        "desc": "4- 12 ips"
+      },
+      "speedPivotRotation": {
+        "label": "Speed Pivot 180° Rotation",
+        "desc": "6 - 10 sec"
+      },
+      "brakesDriveUnitQuantity": {
+        "label": "Brakes Drive Unit Quantity",
+        "desc": "1"
+      },
+      "brakesBrakeType": {
+        "label": "Brakes Brake Type",
+        "desc": "Mechanically Applied, Electrically Released"
+      },
+      "tractionMotorRatingAtSMinutesKw": {
+        "label": "Traction Motor (Rating at S2 60 minutes) kW",
+        "desc": "11.9 at 48 V"
+      },
+      "pumpMotorRatingAtSKw": {
+        "label": "Pump Motor (Rating at S3 30%) kW",
+        "desc": "23"
+      },
+      "driveUnit": {
+        "label": "Drive Unit",
+        "desc": "AC traction"
+      }
+    },
+    "videos": [
+      {
+        "src": "https://youtu.be/OvkNeV6vmkk",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/Hs5lYSWQcCI",
+        "desc": "",
+        "longDesc": ""
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f83b25bef76590301b9f4.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f639f28196b05222ff43f.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "features": [
+      "Achieve Capacity in Very Narrow Aisles",
+      "The TSP Series turret forklift features a stronger mast, higher reach, and narrow footprint, allowing you to make the most of your storage space.",
+      "Crown’s MonoLift Mast provides the stability needed for operators and loads up to six stories in the air.",
+      "Crown’s exclusive MonoLift mast includes strengthened boxed-in sections and heavy gauge steel. As a result, there’s less twisting and swaying than with traditional, dual upright masts.",
+      "Performance to Optimize Every Cycle",
+      "With the TSP Series turret truck, you can travel, lift and handle loads faster – and run longer – for improved throughput. Faster travel and quicker pivot and traverse speeds ensure efficiency in every cycle.",
+      "Also contributing to overall performance, the regenerative lower system recaptures lost energy while larger batteries provide access to more power, fewer battery changes and longer shift life.",
+      "Built-in Intelligence",
+      "The TSP Series combines enhanced safety with productivity and usability. Intelligent systems provide contextual guidance to help increase operator awareness and promotes a safe and productive working environment. At the same time, the smart technology provides a platform for growth, scalable to meet your future application needs.",
+      "The Gena operating system provides operators with an intuitive, data-rich experience that's fully integrated into the turret truck's architecture and can be updated wirelessly. Its 7\" touch screen is programmable in 25 languages. Customizable widgets help operators reach new levels of productivity.",
+      "The TSP Series turret trucks regularly display safety messages to remind operators of their training. Clear interactive displays, automated assistance and coaching and context-sensitive alerts further enhance performance and productivity.",
+      "Control to Optimize Every Move",
+      "Unmatched comfort, control, and safety enable operators to perform with confidence, all shift long.",
+      "Crown’s TSP Series turret forklift provides excellent flexibility and comfort with the MoveControl seat. Its integrated controls and full adjustability support every operator move.",
+      "Crown’s operator-centric design offers features that support operator control with every move.",
+      "Crown Extended Warranty",
+      "Uptime To Be Ready Every Shift",
+      "Durability, energy efficiency, and ease of maintenance minimize downtime to keep the TSP Series running strong.",
+      "The Crown TSP Series turret truck combines steel-enforced durability, proven technology and ease of serviceability all in one.",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "options": [
+      "Lead-Acid Power",
+      "V-Force Lead-Acid Batteries offer the advantages of lower initial cost than other battery technologies and proven, trusted performance for light to heavy duty cycles, from one to three shifts. With proper maintenance, they can support conventional, opportunity and fast charging, delivering reliable energy when it’s needed.",
+      "Lithium-Ion Power",
+      "V-Force Lithium-Ion Energy Storage Systems can improve performance and productivity, with technology that provides more consistent power output throughout the entire battery discharge cycle. Shorter recharge times and better charge acceptance characteristics make them great alternative power solutions for opportunity and fast charging applications.",
+      "Wire Guidance",
+      "Wire guidance automates steering control, allowing for minimal aisle widths.",
+      "Rail Guidance",
+      "Rail guidance automates steering control, allowing for minimal aisle widths. Rail guidance is not affected by facility power outages.",
+      "Triple Telescopic Mast",
+      "Crown’s TT Mast option provides extreme lift heights and low collapsed heights, allowing very tall trucks to easily navigate tunnels and other obstructions such as conveyors and mezzanines.",
+      "Freezer Cabin",
+      "The spacious enclosed freezer cabin provides a heated, comfortable work environment in temperature extreme applications. The cabin also affords exceptional visibility that contributes to operator productivity and shift endurance.",
+      "Narrow Front Rail",
+      "The narrow front rail was designed for floor picking applications. With this feature, operators get on and off truck in tight aisles quickly, safely and easily.",
+      "For even greater productivity, advanced features like the optional Auto Positioning System enable the TSP Series to take the most effective route to the next rack location, increasing productivity up to 25%. The TSP Series’ optional Auto Fence helps promote safety by automatically slowing travel speed, stopping or limiting truck height within the VNA (very narrow aisle) based on the location of the truck.",
+      "The optional Capacity Data Monitor provides load weights, lift heights and capacity limits at a glance. Color-coded visuals are designed to alert the operator of current status, so they stay within specified load limits.",
+      "Crown's optional InfoLink Operator and Fleet Management System helps promote safe operating behavior with features including access control, visual inspection checklists, impact detection and alerts, or equipment lockout. Real-time and historical data reveal areas of risk and identify areas of opportunity"
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "TSP 1500-33 (TN MAST)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Turret Truck",
+      "description": "The TSP 1500 Series VNA turret truck allows operators to move more product in and out of the warehouse. The MonoLift mast provides excellent visibility and stability all the way to 675 inches.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/man-up-order-pickers/tsp-turret-stockpicker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83b49422b53d0f15ef46.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83b610d8b27c4406a3a1.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83b859864e5a8535c9a5.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83ba5bef76590301b9f6.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83bbe2216a02db5ad1b6.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83bda8f71e4db87da28d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83be05ff6642e836c61b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83c07d248162d1325a0d.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83c2a7c36964815c70f3.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83c3c64ef74f785a1596.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83c5211695185b00bde9.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83c6a4618c02406366ed.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83c89600fb355815ec90.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83c9904f9965171ed13c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83cb5ddc84639a2ffcbd.jpg"
+      }
+    ],
+    "dimensions": {
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "loadDistance": {
+        "label": "Load Distance",
+        "desc": "15 in"
+      },
+      "wheelBaseABatteryCompartment": {
+        "label": "Wheel Base “A” Battery Compartment",
+        "desc": "80.1 in"
+      },
+      "wheelBaseBBatteryCompartment": {
+        "label": "Wheel Base “B” Battery Compartment",
+        "desc": "83.5 in"
+      },
+      "wheelBaseCBatteryCompartment": {
+        "label": "Wheel Base “C” Battery Compartment",
+        "desc": "89.2 in"
+      },
+      "wheelBaseDBatteryCompartment": {
+        "label": "Wheel Base “D” Battery Compartment",
+        "desc": "95.8 in"
+      },
+      "tireSizeFrontLoadWheels": {
+        "label": "Tire Size Front (Load Wheels)",
+        "desc": "14 x 8 in"
+      },
+      "tireSizeRearDriveTire": {
+        "label": "Tire Size Rear (Drive Tire)",
+        "desc": "16 x 6.7 in"
+      },
+      "standHeightLowered": {
+        "label": "Stand Height (Lowered)",
+        "desc": "18-95 in"
+      },
+      "cabinWidth": {
+        "label": "Cabin Width",
+        "desc": "48, 52, 58, 64 in"
+      },
+      "forkHeightLowered": {
+        "label": "Fork Height (Lowered)",
+        "desc": "3 in"
+      },
+      "traverseFrameWidthPlatform": {
+        "label": "Traverse Frame Width 48\" Platform",
+        "desc": "48, 49, 50, 51 in"
+      },
+      "traverseFrameWidthOnePlatform": {
+        "label": "Traverse Frame Width one 52\" Platform",
+        "desc": "52, 53, 54, 55, 56†, 57† in"
+      },
+      "traverseFrameWidthThreePlatform": {
+        "label": "Traverse Frame Width three 58\" Platform",
+        "desc": "58, 59, 60, 61, 62†, 63† in"
+      },
+      "traverseFrameWidthTwoPlatform": {
+        "label": "Traverse Frame Width two 64\" Platform",
+        "desc": "64, 65, 66, 67, 68, 69 in"
+      },
+      "overallLengthWithMmLoadHandlerABatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “A” Battery Compartment",
+        "desc": "145 in"
+      },
+      "overallLengthWithMmLoadHandlerBBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “B” Battery Compartment",
+        "desc": "148.4 in"
+      },
+      "overallLengthWithMmLoadHandlerCBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “C” Battery Compartment",
+        "desc": "154.1 in"
+      },
+      "overallLengthWithMmLoadHandlerDBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “D” Battery Compartment",
+        "desc": "160.7 in"
+      },
+      "headLengthABatteryCompartment": {
+        "label": "Head Length “A” Battery Compartment",
+        "desc": "107 in"
+      },
+      "headLengthBBatteryCompartment": {
+        "label": "Head Length “B” Battery Compartment",
+        "desc": "110.4 in"
+      },
+      "headLengthCBatteryCompartment": {
+        "label": "Head Length “C” Battery Compartment",
+        "desc": "116.1 in"
+      },
+      "headLengthDBatteryCompartment": {
+        "label": "Head Length “D” Battery Compartment",
+        "desc": "122.7 in"
+      },
+      "overallWidthFrontRearOawIncrements": {
+        "label": "Overall Width (Front/Rear) (OAW) 1\"  increments",
+        "desc": "48 – 82 in"
+      },
+      "overallWidthOperatorPlatformInMm": {
+        "label": "Overall Width (Operator Platform) in mm",
+        "desc": "48, 52, 58, 64in"
+      },
+      "forkDimensionsTelescopicLXWXT": {
+        "label": "Fork Dimensions Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48, 54 x 5.9 x 2.25 in"
+      },
+      "forkDimensionsNonTelescopicLXWXT": {
+        "label": "Fork Dimensions Non-Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48 x 4 x 1.75 in"
+      },
+      "widthAcrossGuideRollerIncrements": {
+        "label": "Width Across Guide Roller .25\"  increments",
+        "desc": "1.25 – 8.75 (32 – 222) greater than OAW, Item 4.21"
+      },
+      "groundClearance": {
+        "label": "Ground Clearance",
+        "desc": "1.8 in"
+      },
+      "loadHandlerLengthStandard": {
+        "label": "Load Handler Length Standard",
+        "desc": "23 or 27 in"
+      },
+      "loadHandlerLengthOptional": {
+        "label": "Load Handler Length Optional",
+        "desc": "30, 33, 36, 39, 42, 45,48, 51, 54 in"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerSourceElectric": {
+        "label": "Power Source Electric",
+        "desc": "72 / 80 Volt"
+      },
+      "operatorTypeSitStandRider": {
+        "label": "Operator Type Sit / Stand Rider",
+        "desc": "Turret Stockpicker"
+      },
+      "ratedCapacityMmLoadCenter": {
+        "label": "Rated Capacity* 24\" (610 mm) Load Center",
+        "desc": "3,300 lb"
+      },
+      "serviceWeightLessBattery": {
+        "label": "Service Weight Less Battery",
+        "desc": "15,675 – 20,040 lb"
+      },
+      "tiresLoadDrive": {
+        "label": "Tires Load / Drive",
+        "desc": "Poly"
+      },
+      "wheelsLoadDrive": {
+        "label": "Wheels Load / Drive",
+        "desc": "2 / 1"
+      },
+      "liftSpeedMainMastVEmptyLoadedOne": {
+        "label": "Lift Speed Main Mast (72v) Empty / Loaded one",
+        "desc": "120 / 105 fpm"
+      },
+      "liftSpeedMainMastVEmptyLoaded": {
+        "label": "Lift Speed Main Mast (80v) Empty / Loaded ",
+        "desc": "120 / 115 fpm"
+      },
+      "liftSpeedLoweringAuxiliaryMastEmptyLoaded": {
+        "label": "Lift Speed Lowering Auxiliary Mast Empty Loaded,",
+        "desc": "80 / 80 fpm"
+      },
+      "loweringSpeedMainMastEmptyLoaded": {
+        "label": "Lowering Speed Main Mast Empty / Loaded",
+        "desc": "88 / 88 fpm"
+      },
+      "loweringSpeedAuxiliaryMastEmptyLoaded": {
+        "label": "Lowering Speed Auxiliary Mast Empty / Loaded  ",
+        "desc": "65 / 80 fpm"
+      },
+      "speedTraverse": {
+        "label": "Speed Traverse",
+        "desc": "4- 12 ips"
+      },
+      "speedPivotRotation": {
+        "label": "Speed Pivot 180° Rotation",
+        "desc": "6 - 10 sec"
+      },
+      "brakesDriveUnitQuantity": {
+        "label": "Brakes Drive Unit Quantity",
+        "desc": "1"
+      },
+      "brakesBrakeType": {
+        "label": "Brakes Brake Type",
+        "desc": "Mechanically Applied, Electrically Released"
+      },
+      "tractionMotorRatingAtSMinutesKw": {
+        "label": "Traction Motor (Rating at S2 60 minutes) kW",
+        "desc": "11.9 at 48 V"
+      },
+      "pumpMotorRatingAtSKw": {
+        "label": "Pump Motor (Rating at S3 30%) kW",
+        "desc": "23"
+      },
+      "driveUnit": {
+        "label": "Drive Unit",
+        "desc": "AC traction"
+      }
+    },
+    "videos": [
+      {
+        "src": "https://youtu.be/OvkNeV6vmkk",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/Hs5lYSWQcCI",
+        "desc": "",
+        "longDesc": ""
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f83cd58de1f3ed16ba987.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f639f28196b05222ff43f.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "features": [
+      "Achieve Capacity in Very Narrow Aisles",
+      "The TSP Series turret forklift features a stronger mast, higher reach, and narrow footprint, allowing you to make the most of your storage space.",
+      "Crown’s MonoLift Mast provides the stability needed for operators and loads up to six stories in the air.",
+      "Crown’s exclusive MonoLift mast includes strengthened boxed-in sections and heavy gauge steel. As a result, there’s less twisting and swaying than with traditional, dual upright masts.",
+      "Performance to Optimize Every Cycle",
+      "With the TSP Series turret truck, you can travel, lift and handle loads faster – and run longer – for improved throughput. Faster travel and quicker pivot and traverse speeds ensure efficiency in every cycle.",
+      "Also contributing to overall performance, the regenerative lower system recaptures lost energy while larger batteries provide access to more power, fewer battery changes and longer shift life.",
+      "Built-in Intelligence",
+      "The TSP Series combines enhanced safety with productivity and usability. Intelligent systems provide contextual guidance to help increase operator awareness and promotes a safe and productive working environment. At the same time, the smart technology provides a platform for growth, scalable to meet your future application needs.",
+      "The Gena operating system provides operators with an intuitive, data-rich experience that's fully integrated into the turret truck's architecture and can be updated wirelessly. Its 7\" touch screen is programmable in 25 languages. Customizable widgets help operators reach new levels of productivity.",
+      "The TSP Series turret trucks regularly display safety messages to remind operators of their training. Clear interactive displays, automated assistance and coaching and context-sensitive alerts further enhance performance and productivity.",
+      "Control to Optimize Every Move",
+      "Unmatched comfort, control, and safety enable operators to perform with confidence, all shift long.",
+      "Crown’s TSP Series turret forklift provides excellent flexibility and comfort with the MoveControl seat. Its integrated controls and full adjustability support every operator move.",
+      "Crown’s operator-centric design offers features that support operator control with every move.",
+      "Crown Extended Warranty",
+      "Uptime To Be Ready Every Shift",
+      "Durability, energy efficiency, and ease of maintenance minimize downtime to keep the TSP Series running strong.",
+      "The Crown TSP Series turret truck combines steel-enforced durability, proven technology and ease of serviceability all in one.",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "options": [
+      "Lead-Acid Power",
+      "V-Force Lead-Acid Batteries offer the advantages of lower initial cost than other battery technologies and proven, trusted performance for light to heavy duty cycles, from one to three shifts. With proper maintenance, they can support conventional, opportunity and fast charging, delivering reliable energy when it’s needed.",
+      "Lithium-Ion Power",
+      "V-Force Lithium-Ion Energy Storage Systems can improve performance and productivity, with technology that provides more consistent power output throughout the entire battery discharge cycle. Shorter recharge times and better charge acceptance characteristics make them great alternative power solutions for opportunity and fast charging applications.",
+      "Wire Guidance",
+      "Wire guidance automates steering control, allowing for minimal aisle widths.",
+      "Rail Guidance",
+      "Rail guidance automates steering control, allowing for minimal aisle widths. Rail guidance is not affected by facility power outages.",
+      "Triple Telescopic Mast",
+      "Crown’s TT Mast option provides extreme lift heights and low collapsed heights, allowing very tall trucks to easily navigate tunnels and other obstructions such as conveyors and mezzanines.",
+      "Freezer Cabin",
+      "The spacious enclosed freezer cabin provides a heated, comfortable work environment in temperature extreme applications. The cabin also affords exceptional visibility that contributes to operator productivity and shift endurance.",
+      "Narrow Front Rail",
+      "The narrow front rail was designed for floor picking applications. With this feature, operators get on and off truck in tight aisles quickly, safely and easily.",
+      "For even greater productivity, advanced features like the optional Auto Positioning System enable the TSP Series to take the most effective route to the next rack location, increasing productivity up to 25%. The TSP Series’ optional Auto Fence helps promote safety by automatically slowing travel speed, stopping or limiting truck height within the VNA (very narrow aisle) based on the location of the truck.",
+      "The optional Capacity Data Monitor provides load weights, lift heights and capacity limits at a glance. Color-coded visuals are designed to alert the operator of current status, so they stay within specified load limits.",
+      "Crown's optional InfoLink Operator and Fleet Management System helps promote safe operating behavior with features including access control, visual inspection checklists, impact detection and alerts, or equipment lockout. Real-time and historical data reveal areas of risk and identify areas of opportunity"
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "TSP 1500-33 (TF MAST)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Turret Truck",
+      "description": "The TSP 1500 Series VNA turret truck allows operators to move more product in and out of the warehouse. The MonoLift mast provides excellent visibility and stability all the way to 675 inches.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/man-up-order-pickers/tsp-turret-stockpicker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83cfd535b8367156e589.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83d02878a255a652526b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83d266fce85fb34c514f.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83d40e2ead46d855473b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83d50f7f5919213eca0f.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83d7dfa1fe5092757996.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83d9f19277017a7a2a68.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83dafc60112a2a2eb915.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83dc6512d70b3a7333e1.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83deb6ab0156f1424d1e.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83e0dc9bc0581c34aab2.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83e12949584062578b1f.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83e355db1e42c000bd53.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83e4860ad17c620aa60d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83e6de8ac36f1068e2c9.jpg"
+      }
+    ],
+    "dimensions": {
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "loadDistance": {
+        "label": "Load Distance",
+        "desc": "15 in"
+      },
+      "wheelBaseABatteryCompartment": {
+        "label": "Wheel Base “A” Battery Compartment",
+        "desc": "80.1 in"
+      },
+      "wheelBaseBBatteryCompartment": {
+        "label": "Wheel Base “B” Battery Compartment",
+        "desc": "83.5 in"
+      },
+      "wheelBaseCBatteryCompartment": {
+        "label": "Wheel Base “C” Battery Compartment",
+        "desc": "89.2 in"
+      },
+      "wheelBaseDBatteryCompartment": {
+        "label": "Wheel Base “D” Battery Compartment",
+        "desc": "95.8 in"
+      },
+      "tireSizeFrontLoadWheels": {
+        "label": "Tire Size Front (Load Wheels)",
+        "desc": "14 x 8 in"
+      },
+      "tireSizeRearDriveTire": {
+        "label": "Tire Size Rear (Drive Tire)",
+        "desc": "16 x 6.7 in"
+      },
+      "standHeightLowered": {
+        "label": "Stand Height (Lowered)",
+        "desc": "18-95 in"
+      },
+      "cabinWidth": {
+        "label": "Cabin Width",
+        "desc": "48, 52, 58, 64 in"
+      },
+      "forkHeightLowered": {
+        "label": "Fork Height (Lowered)",
+        "desc": "3 in"
+      },
+      "traverseFrameWidthPlatform": {
+        "label": "Traverse Frame Width 48\" Platform",
+        "desc": "48, 49, 50, 51 in"
+      },
+      "traverseFrameWidthOnePlatform": {
+        "label": "Traverse Frame Width one 52\" Platform",
+        "desc": "52, 53, 54, 55, 56†, 57† in"
+      },
+      "traverseFrameWidthThreePlatform": {
+        "label": "Traverse Frame Width three 58\" Platform",
+        "desc": "58, 59, 60, 61, 62†, 63† in"
+      },
+      "traverseFrameWidthTwoPlatform": {
+        "label": "Traverse Frame Width two 64\" Platform",
+        "desc": "64, 65, 66, 67, 68, 69 in"
+      },
+      "overallLengthWithMmLoadHandlerABatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “A” Battery Compartment",
+        "desc": "145 in"
+      },
+      "overallLengthWithMmLoadHandlerBBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “B” Battery Compartment",
+        "desc": "148.4 in"
+      },
+      "overallLengthWithMmLoadHandlerCBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “C” Battery Compartment",
+        "desc": "154.1 in"
+      },
+      "overallLengthWithMmLoadHandlerDBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “D” Battery Compartment",
+        "desc": "160.7 in"
+      },
+      "headLengthABatteryCompartment": {
+        "label": "Head Length “A” Battery Compartment",
+        "desc": "107 in"
+      },
+      "headLengthBBatteryCompartment": {
+        "label": "Head Length “B” Battery Compartment",
+        "desc": "110.4 in"
+      },
+      "headLengthCBatteryCompartment": {
+        "label": "Head Length “C” Battery Compartment",
+        "desc": "116.1 in"
+      },
+      "headLengthDBatteryCompartment": {
+        "label": "Head Length “D” Battery Compartment",
+        "desc": "122.7 in"
+      },
+      "overallWidthFrontRearOawIncrements": {
+        "label": "Overall Width (Front/Rear) (OAW) 1\"  increments",
+        "desc": "48 – 82 in"
+      },
+      "overallWidthOperatorPlatformInMm": {
+        "label": "Overall Width (Operator Platform) in mm",
+        "desc": "48, 52, 58, 64in"
+      },
+      "forkDimensionsTelescopicLXWXT": {
+        "label": "Fork Dimensions Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48, 54 x 5.9 x 2.25 in"
+      },
+      "forkDimensionsNonTelescopicLXWXT": {
+        "label": "Fork Dimensions Non-Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48 x 4 x 1.75 in"
+      },
+      "widthAcrossGuideRollerIncrements": {
+        "label": "Width Across Guide Roller .25\"  increments",
+        "desc": "1.25 – 8.75 (32 – 222) greater than OAW, Item 4.21"
+      },
+      "groundClearance": {
+        "label": "Ground Clearance",
+        "desc": "1.8 in"
+      },
+      "loadHandlerLengthStandard": {
+        "label": "Load Handler Length Standard",
+        "desc": "23 or 27 in"
+      },
+      "loadHandlerLengthOptional": {
+        "label": "Load Handler Length Optional",
+        "desc": "30, 33, 36, 39, 42, 45,48, 51, 54 in"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerSourceElectric": {
+        "label": "Power Source Electric",
+        "desc": "72 / 80 Volt"
+      },
+      "operatorTypeSitStandRider": {
+        "label": "Operator Type Sit / Stand Rider",
+        "desc": "Turret Stockpicker"
+      },
+      "ratedCapacityMmLoadCenter": {
+        "label": "Rated Capacity* 24\" (610 mm) Load Center",
+        "desc": "3,300 lb"
+      },
+      "serviceWeightLessBattery": {
+        "label": "Service Weight Less Battery",
+        "desc": "15,675 – 20,040 lb"
+      },
+      "tiresLoadDrive": {
+        "label": "Tires Load / Drive",
+        "desc": "Poly"
+      },
+      "wheelsLoadDrive": {
+        "label": "Wheels Load / Drive",
+        "desc": "2 / 1"
+      },
+      "liftSpeedMainMastVEmptyLoadedOne": {
+        "label": "Lift Speed Main Mast (72v) Empty / Loaded one",
+        "desc": "110 / 95 fpm"
+      },
+      "liftSpeedMainMastVEmptyLoaded": {
+        "label": "Lift Speed Main Mast (80v) Empty / Loaded ",
+        "desc": "110 / 105 fpm"
+      },
+      "liftSpeedLoweringAuxiliaryMastEmptyLoaded": {
+        "label": "Lift Speed Lowering Auxiliary Mast Empty Loaded,",
+        "desc": "80 / 80 fpm"
+      },
+      "loweringSpeedMainMastEmptyLoaded": {
+        "label": "Lowering Speed Main Mast Empty / Loaded",
+        "desc": "88 / 88 fpm"
+      },
+      "loweringSpeedAuxiliaryMastEmptyLoaded": {
+        "label": "Lowering Speed Auxiliary Mast Empty / Loaded  ",
+        "desc": "65 / 80 fpm"
+      },
+      "speedTraverse": {
+        "label": "Speed Traverse",
+        "desc": "4- 12 ips"
+      },
+      "speedPivotRotation": {
+        "label": "Speed Pivot 180° Rotation",
+        "desc": "6 - 10 sec"
+      },
+      "brakesDriveUnitQuantity": {
+        "label": "Brakes Drive Unit Quantity",
+        "desc": "1"
+      },
+      "brakesBrakeType": {
+        "label": "Brakes Brake Type",
+        "desc": "Mechanically Applied, Electrically Released"
+      },
+      "tractionMotorRatingAtSMinutesKw": {
+        "label": "Traction Motor (Rating at S2 60 minutes) kW",
+        "desc": "11.9 at 48 V"
+      },
+      "pumpMotorRatingAtSKw": {
+        "label": "Pump Motor (Rating at S3 30%) kW",
+        "desc": "23"
+      },
+      "driveUnit": {
+        "label": "Drive Unit",
+        "desc": "AC traction"
+      }
+    },
+    "videos": [
+      {
+        "src": "https://youtu.be/OvkNeV6vmkk",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/Hs5lYSWQcCI",
+        "desc": "",
+        "longDesc": ""
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f83e8d400916dc05a32e2.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f639f28196b05222ff43f.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "features": [
+      "Achieve Capacity in Very Narrow Aisles",
+      "The TSP Series turret forklift features a stronger mast, higher reach, and narrow footprint, allowing you to make the most of your storage space.",
+      "Crown’s MonoLift Mast provides the stability needed for operators and loads up to six stories in the air.",
+      "Crown’s exclusive MonoLift mast includes strengthened boxed-in sections and heavy gauge steel. As a result, there’s less twisting and swaying than with traditional, dual upright masts.",
+      "Performance to Optimize Every Cycle",
+      "With the TSP Series turret truck, you can travel, lift and handle loads faster – and run longer – for improved throughput. Faster travel and quicker pivot and traverse speeds ensure efficiency in every cycle.",
+      "Also contributing to overall performance, the regenerative lower system recaptures lost energy while larger batteries provide access to more power, fewer battery changes and longer shift life.",
+      "Built-in Intelligence",
+      "The TSP Series combines enhanced safety with productivity and usability. Intelligent systems provide contextual guidance to help increase operator awareness and promotes a safe and productive working environment. At the same time, the smart technology provides a platform for growth, scalable to meet your future application needs.",
+      "The Gena operating system provides operators with an intuitive, data-rich experience that's fully integrated into the turret truck's architecture and can be updated wirelessly. Its 7\" touch screen is programmable in 25 languages. Customizable widgets help operators reach new levels of productivity.",
+      "The TSP Series turret trucks regularly display safety messages to remind operators of their training. Clear interactive displays, automated assistance and coaching and context-sensitive alerts further enhance performance and productivity.",
+      "Control to Optimize Every Move",
+      "Unmatched comfort, control, and safety enable operators to perform with confidence, all shift long.",
+      "Crown’s TSP Series turret forklift provides excellent flexibility and comfort with the MoveControl seat. Its integrated controls and full adjustability support every operator move.",
+      "Crown’s operator-centric design offers features that support operator control with every move.",
+      "Crown Extended Warranty",
+      "Uptime To Be Ready Every Shift",
+      "Durability, energy efficiency, and ease of maintenance minimize downtime to keep the TSP Series running strong.",
+      "The Crown TSP Series turret truck combines steel-enforced durability, proven technology and ease of serviceability all in one.",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "options": [
+      "Lead-Acid Power",
+      "V-Force Lead-Acid Batteries offer the advantages of lower initial cost than other battery technologies and proven, trusted performance for light to heavy duty cycles, from one to three shifts. With proper maintenance, they can support conventional, opportunity and fast charging, delivering reliable energy when it’s needed.",
+      "Lithium-Ion Power",
+      "V-Force Lithium-Ion Energy Storage Systems can improve performance and productivity, with technology that provides more consistent power output throughout the entire battery discharge cycle. Shorter recharge times and better charge acceptance characteristics make them great alternative power solutions for opportunity and fast charging applications.",
+      "Wire Guidance",
+      "Wire guidance automates steering control, allowing for minimal aisle widths.",
+      "Rail Guidance",
+      "Rail guidance automates steering control, allowing for minimal aisle widths. Rail guidance is not affected by facility power outages.",
+      "Triple Telescopic Mast",
+      "Crown’s TT Mast option provides extreme lift heights and low collapsed heights, allowing very tall trucks to easily navigate tunnels and other obstructions such as conveyors and mezzanines.",
+      "Freezer Cabin",
+      "The spacious enclosed freezer cabin provides a heated, comfortable work environment in temperature extreme applications. The cabin also affords exceptional visibility that contributes to operator productivity and shift endurance.",
+      "Narrow Front Rail",
+      "The narrow front rail was designed for floor picking applications. With this feature, operators get on and off truck in tight aisles quickly, safely and easily.",
+      "For even greater productivity, advanced features like the optional Auto Positioning System enable the TSP Series to take the most effective route to the next rack location, increasing productivity up to 25%. The TSP Series’ optional Auto Fence helps promote safety by automatically slowing travel speed, stopping or limiting truck height within the VNA (very narrow aisle) based on the location of the truck.",
+      "The optional Capacity Data Monitor provides load weights, lift heights and capacity limits at a glance. Color-coded visuals are designed to alert the operator of current status, so they stay within specified load limits.",
+      "Crown's optional InfoLink Operator and Fleet Management System helps promote safe operating behavior with features including access control, visual inspection checklists, impact detection and alerts, or equipment lockout. Real-time and historical data reveal areas of risk and identify areas of opportunity"
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "TSP 1500-33 (TT)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Turret Truck",
+      "description": "The TSP 1500 Series VNA turret truck allows operators to move more product in and out of the warehouse. The MonoLift mast provides excellent visibility and stability all the way to 675 inches.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/man-up-order-pickers/tsp-turret-stockpicker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83ea26a95f497a4f2035.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83eb16f06f0ad0776102.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83edc6ad795f0113cda2.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83ef76da2f75c16a210c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83f034d51366471fc8cb.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83f28a2ff612d757d2e4.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83f4bb29e05d2e0c82d3.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83f5ec05a14fc524ae70.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83f7286d501fa222fd57.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83f91867c44f2a0fe613.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83fb3b391122545a49f1.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83fc6912290483340eb1.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83fe2f8f7f2f0b7d5f50.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f83ffe34ab53c62652587.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84019c34fe5519622ba0.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://youtu.be/OvkNeV6vmkk",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/Hs5lYSWQcCI",
+        "desc": "",
+        "longDesc": ""
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f8402c1f21223af1d660c.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f639f28196b05222ff43f.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "features": [
+      "Achieve Capacity in Very Narrow Aisles",
+      "The TSP Series turret forklift features a stronger mast, higher reach, and narrow footprint, allowing you to make the most of your storage space.",
+      "Crown’s MonoLift Mast provides the stability needed for operators and loads up to six stories in the air.",
+      "Crown’s exclusive MonoLift mast includes strengthened boxed-in sections and heavy gauge steel. As a result, there’s less twisting and swaying than with traditional, dual upright masts.",
+      "Performance to Optimize Every Cycle",
+      "With the TSP Series turret truck, you can travel, lift and handle loads faster – and run longer – for improved throughput. Faster travel and quicker pivot and traverse speeds ensure efficiency in every cycle.",
+      "Also contributing to overall performance, the regenerative lower system recaptures lost energy while larger batteries provide access to more power, fewer battery changes and longer shift life.",
+      "Built-in Intelligence",
+      "The TSP Series combines enhanced safety with productivity and usability. Intelligent systems provide contextual guidance to help increase operator awareness and promotes a safe and productive working environment. At the same time, the smart technology provides a platform for growth, scalable to meet your future application needs.",
+      "The Gena operating system provides operators with an intuitive, data-rich experience that's fully integrated into the turret truck's architecture and can be updated wirelessly. Its 7\" touch screen is programmable in 25 languages. Customizable widgets help operators reach new levels of productivity.",
+      "The TSP Series turret trucks regularly display safety messages to remind operators of their training. Clear interactive displays, automated assistance and coaching and context-sensitive alerts further enhance performance and productivity.",
+      "Control to Optimize Every Move",
+      "Unmatched comfort, control, and safety enable operators to perform with confidence, all shift long.",
+      "Crown’s TSP Series turret forklift provides excellent flexibility and comfort with the MoveControl seat. Its integrated controls and full adjustability support every operator move.",
+      "Crown’s operator-centric design offers features that support operator control with every move.",
+      "Crown Extended Warranty",
+      "Uptime To Be Ready Every Shift",
+      "Durability, energy efficiency, and ease of maintenance minimize downtime to keep the TSP Series running strong.",
+      "The Crown TSP Series turret truck combines steel-enforced durability, proven technology and ease of serviceability all in one.",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "dimensions": {
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "loadDistance": {
+        "label": "Load Distance",
+        "desc": "16 in"
+      },
+      "wheelBaseABatteryCompartment": {
+        "label": "Wheel Base “A” Battery Compartment",
+        "desc": "83.6 in"
+      },
+      "wheelBaseBBatteryCompartment": {
+        "label": "Wheel Base “B” Battery Compartment",
+        "desc": "87 in"
+      },
+      "wheelBaseCBatteryCompartment": {
+        "label": "Wheel Base “C” Battery Compartment",
+        "desc": "92.7 in"
+      },
+      "wheelBaseDBatteryCompartment": {
+        "label": "Wheel Base “D” Battery Compartment",
+        "desc": "99.3 in"
+      },
+      "tireSizeFrontLoadWheels": {
+        "label": "Tire Size Front (Load Wheels)",
+        "desc": "14 x 8 in"
+      },
+      "tireSizeRearDriveTire": {
+        "label": "Tire Size Rear (Drive Tire)",
+        "desc": "16 x 6.7 in"
+      },
+      "standHeightLowered": {
+        "label": "Stand Height (Lowered)",
+        "desc": "18-95 in"
+      },
+      "cabinWidth": {
+        "label": "Cabin Width",
+        "desc": "48, 52, 58, 64 in"
+      },
+      "forkHeightLowered": {
+        "label": "Fork Height (Lowered)",
+        "desc": "3 in"
+      },
+      "traverseFrameWidthPlatform": {
+        "label": "Traverse Frame Width 48\" Platform",
+        "desc": "48, 49, 50, 51 in"
+      },
+      "traverseFrameWidthOnePlatform": {
+        "label": "Traverse Frame Width one 52\" Platform",
+        "desc": "52, 53, 54, 55, 56†, 57† in"
+      },
+      "traverseFrameWidthTwoPlatform": {
+        "label": "Traverse Frame Width two 58\" Platform",
+        "desc": "58, 59, 60, 61, 62†, 63† in"
+      },
+      "traverseFrameWidthThreePlatform": {
+        "label": "Traverse Frame Width three 64\" Platform",
+        "desc": "64, 65, 66, 67, 68, 69 in"
+      },
+      "overallLengthWithMmLoadHandlerABatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “A” Battery Compartment",
+        "desc": "149.5 in"
+      },
+      "overallLengthWithMmLoadHandlerBBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “B” Battery Compartment",
+        "desc": "152.9 in"
+      },
+      "overallLengthWithMmLoadHandlerCBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “C” Battery Compartment",
+        "desc": "158.6 in"
+      },
+      "overallLengthWithMmLoadHandlerDBatteryCompartment": {
+        "label": "Overall Length (With 23\", 585 mm Load Handler) “D” Battery Compartment",
+        "desc": "165.2 in"
+      },
+      "headLengthABatteryCompartment": {
+        "label": "Head Length “A” Battery Compartment",
+        "desc": "111.5 in"
+      },
+      "headLengthBBatteryCompartment": {
+        "label": "Head Length “B” Battery Compartment",
+        "desc": "114.9 in"
+      },
+      "headLengthCBatteryCompartment": {
+        "label": "Head Length “C” Battery Compartment",
+        "desc": "120.6 in"
+      },
+      "headLengthDBatteryCompartment": {
+        "label": "Head Length “D” Battery Compartment",
+        "desc": "127.2 in"
+      },
+      "overallWidthFrontRearOawIncrements": {
+        "label": "Overall Width (Front/Rear) (OAW) 1\"  increments",
+        "desc": "48 – 82 in"
+      },
+      "overallWidthOperatorPlatformInMm": {
+        "label": "Overall Width (Operator Platform) in mm",
+        "desc": "48, 52, 58, 64in"
+      },
+      "forkDimensionsTelescopicLXWXT": {
+        "label": "Fork Dimensions Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48, 54 x 5.9 x 2.25 in"
+      },
+      "forkDimensionsNonTelescopicLXWXT": {
+        "label": "Fork Dimensions Non-Telescopic L x W x T",
+        "desc": "30, 31, 36, 39, 42, 47, 48 x 4 x 1.75 in"
+      },
+      "widthAcrossGuideRollerIncrements": {
+        "label": "Width Across Guide Roller .25\"  increments",
+        "desc": "1.25 – 8.75 (32 – 222) greater than OAW, Item 4.21"
+      },
+      "groundClearance": {
+        "label": "Ground Clearance",
+        "desc": "1.8 in"
+      },
+      "loadHandlerLengthStandard": {
+        "label": "Load Handler Length Standard",
+        "desc": "23 or 27 in"
+      },
+      "loadHandlerLengthOptional": {
+        "label": "Load Handler Length Optional",
+        "desc": "30, 33, 36, 39, 42, 45,48, 51, 54 in"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerSourceElectric": {
+        "label": "Power Source Electric",
+        "desc": "72 / 80 Volt"
+      },
+      "operatorTypeSitStandRider": {
+        "label": "Operator Type Sit / Stand Rider",
+        "desc": "Turret Stockpicker"
+      },
+      "ratedCapacityMmLoadCenter": {
+        "label": "Rated Capacity* 24\" (610 mm) Load Center",
+        "desc": "3,300 lb"
+      },
+      "serviceWeightLessBattery": {
+        "label": "Service Weight Less Battery",
+        "desc": "15,675 – 20,040 lb"
+      },
+      "tiresLoadDrive": {
+        "label": "Tires Load / Drive",
+        "desc": "Poly"
+      },
+      "wheelsLoadDrive": {
+        "label": "Wheels Load / Drive",
+        "desc": "2 / 1"
+      },
+      "liftSpeedMainMastVEmptyLoaded": {
+        "label": "Lift Speed Main Mast (72v) Empty / Loaded ",
+        "desc": "102 / 88 fpm"
+      },
+      "liftSpeedMainMastVEmptyLoadedOne": {
+        "label": "Lift Speed Main Mast (80v) Empty / Loaded one",
+        "desc": "102 / 98 fpm"
+      },
+      "liftSpeedLoweringAuxiliaryMastEmptyLoaded": {
+        "label": "Lift Speed Lowering Auxiliary MastEmpty / Loaded",
+        "desc": "80 / 80 fpm"
+      },
+      "loweringSpeedMainMastEmptyLoaded": {
+        "label": "Lowering Speed Main Mast Empty / Loaded",
+        "desc": "88 / 88 fpm"
+      },
+      "loweringSpeedAuxiliaryMastEmptyLoaded": {
+        "label": "Lowering Speed Auxiliary Mast Empty / Loaded  ",
+        "desc": "65 / 80 fpm"
+      },
+      "speedPivotRotation": {
+        "label": "Speed Pivot 180° Rotation",
+        "desc": "6 - 10 sec"
+      },
+      "speedTraverse": {
+        "label": "Speed Traverse",
+        "desc": "4- 12 ips"
+      },
+      "brakesDriveUnitQuantity": {
+        "label": "Brakes Drive Unit Quantity",
+        "desc": "1"
+      },
+      "brakesBrakeType": {
+        "label": "Brakes Brake Type",
+        "desc": "Mechanically Applied, Electrically Released"
+      },
+      "tractionMotorRatingAtSMinutesKw": {
+        "label": "Traction Motor (Rating at S2 60 minutes) kW",
+        "desc": "11.9 at 48 V"
+      },
+      "pumpMotorRatingAtSKw": {
+        "label": "Pump Motor (Rating at S3 30%) kW",
+        "desc": "23"
+      },
+      "driveUnit": {
+        "label": "Drive Unit",
+        "desc": "AC traction"
+      }
+    },
+    "options": [
+      "Lead-Acid Power",
+      "V-Force Lead-Acid Batteries offer the advantages of lower initial cost than other battery technologies and proven, trusted performance for light to heavy duty cycles, from one to three shifts. With proper maintenance, they can support conventional, opportunity and fast charging, delivering reliable energy when it’s needed.",
+      "Lithium-Ion Power",
+      "V-Force Lithium-Ion Energy Storage Systems can improve performance and productivity, with technology that provides more consistent power output throughout the entire battery discharge cycle. Shorter recharge times and better charge acceptance characteristics make them great alternative power solutions for opportunity and fast charging applications.",
+      "Wire Guidance",
+      "Wire guidance automates steering control, allowing for minimal aisle widths.",
+      "Rail Guidance",
+      "Rail guidance automates steering control, allowing for minimal aisle widths. Rail guidance is not affected by facility power outages.",
+      "Triple Telescopic Mast",
+      "Crown’s TT Mast option provides extreme lift heights and low collapsed heights, allowing very tall trucks to easily navigate tunnels and other obstructions such as conveyors and mezzanines.",
+      "Freezer Cabin",
+      "The spacious enclosed freezer cabin provides a heated, comfortable work environment in temperature extreme applications. The cabin also affords exceptional visibility that contributes to operator productivity and shift endurance.",
+      "Narrow Front Rail",
+      "The narrow front rail was designed for floor picking applications. With this feature, operators get on and off truck in tight aisles quickly, safely and easily.",
+      "For even greater productivity, advanced features like the optional Auto Positioning System enable the TSP Series to take the most effective route to the next rack location, increasing productivity up to 25%. The TSP Series’ optional Auto Fence helps promote safety by automatically slowing travel speed, stopping or limiting truck height within the VNA (very narrow aisle) based on the location of the truck.",
+      "The optional Capacity Data Monitor provides load weights, lift heights and capacity limits at a glance. Color-coded visuals are designed to alert the operator of current status, so they stay within specified load limits.",
+      "Crown's optional InfoLink Operator and Fleet Management System helps promote safe operating behavior with features including access control, visual inspection checklists, impact detection and alerts, or equipment lockout. Real-time and historical data reveal areas of risk and identify areas of opportunity"
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "SHC 5540-25",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Walkie Counterbalance Stacker",
+      "description": "he SHC Series combines the features of a counterbalance forklift with a heavy duty stacker to create a truck well suited for dock work, transport, put-away and block stacking. Its versatility is further enhanced with optional integrated sideshift and multiple attachments.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/stackers/sh-shr-shc-heavy-duty-reach-stacker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8417a5533204673da45e.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84189167f861c045a38a.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84191e17c677fa3afbc9.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f841b190e030737793a49.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f841c6bfed42842374ba8.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/66a203cc5d4d3e63bd620296.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/66a203ceb6071641df74464b.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/66a203cf5d7ba84fb5410a51.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f841e3d640f3eea6599dc.jpg"
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f84209941f273ce576381.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f63c47102bb12dc2442b0.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerElectric": {
+        "label": "Power Electric",
+        "desc": "24 Volts"
+      },
+      "operatorTypeWalkie": {
+        "label": "Operator Type Walkie",
+        "desc": "Counterbalanced Stacker"
+      },
+      "tireTypeLoadDrive": {
+        "label": "Tire Type Load / Drive",
+        "desc": "Poly / Poly"
+      },
+      "wheelsXDrivenLoadDrive": {
+        "label": "Wheels (x = driven)Load / Drive",
+        "desc": "2 / 1x"
+      },
+      "travelSpeedsEmptyLoaded": {
+        "label": "Travel Speeds Empty / Loaded",
+        "desc": "3.0 / 3.0 mph"
+      },
+      "liftSpeedsEmptyLoaded": {
+        "label": "Lift Speeds Empty / Loaded",
+        "desc": "61 / 26 fpm"
+      },
+      "loweringSpeedsEmptyLoaded": {
+        "label": "Lowering Speeds Empty / Loaded",
+        "desc": "50 / 50 fpm"
+      },
+      "gradeClearance": {
+        "label": "Grade Clearance %",
+        "desc": "31"
+      },
+      "batteryMinWeightMaxAmpLb": {
+        "label": "Battery Min Weight / Max Amp lb",
+        "desc": "975 / 660 lb"
+      }
+    },
+    "dimensions": {
+      "loadCenter": {
+        "label": "Load Center",
+        "desc": "24 in"
+      },
+      "headLengthTlLimitedFreeLift": {
+        "label": "Head Length* TL - Limited Free Lift",
+        "desc": "60.5 in"
+      },
+      "headLengthTfFullFreeLift": {
+        "label": "Head Length* TF - Full Free Lift",
+        "desc": "62.5 in"
+      },
+      "headLengthTtTripleTelescopic": {
+        "label": "Head Length* TT - Triple Telescopic",
+        "desc": "61.7 in"
+      },
+      "wheelbase": {
+        "label": "Wheelbase",
+        "desc": "44.8 in"
+      },
+      "turningRadius": {
+        "label": "Turning Radius",
+        "desc": "51.6 in"
+      },
+      "forksStandardLXWXT": {
+        "label": "Forks Standard L x W x T",
+        "desc": "36 x 4x 1.5 in"
+      },
+      "forksOptionalLengths": {
+        "label": "Forks Optional Lengths",
+        "desc": "30, 39,42, 45,48 in"
+      },
+      "overallWidth": {
+        "label": "Overall Width",
+        "desc": "37 in"
+      },
+      "batteryMaxBatterySizeWXLXH": {
+        "label": "Battery Max Battery Size  W x L x H",
+        "desc": "13.12 x31.1x 24.8 in"
+      },
+      "performanceCableLeadLengthInMmConnectorPosition": {
+        "label": "Performance Cable Lead Length / in mm Connector Position",
+        "desc": "20 / B"
+      }
+    },
+    "features": [
+      "Navigate with Ease",
+      "The small footprint and extended load capacities of Crown's heavy duty walkie pallet stackers enable operators to quickly and easily maneuver heavy loads while navigating in tight areas.",
+      "Optimized for Tight Spaces ",
+      "Operators of Crown's heavy duty walkie pallet stackers find them easy to use – even in tight spaces – since the innovative controls and compact design enhance maneuverability.",
+      "The brake override feature included with the SH, SHR and SHC Series stackers allows the truck to be controlled with the steering handle in a nearly vertical position, providing a tight turning radius for operation in trailers and very narrow aisles.",
+      "Designed for Exceptional Control",
+      "The exclusive Crown X10 Handle used on heavy duty walkie stackers simplifies every lift truck function while electronic power steering minimizes steering effort and reduces fatigue, even when navigating loads up to 4,000 pounds with one hand. The X10 handle includes a rabbit/turtle switch for two levels of programmable travel performance so operators can quickly select the setting that matches their experience level or specific task.",
+      "Powerful and Intelligent Performance ",
+      "Crown's heavy duty walkie stackers feature a powerful, efficient AC traction system and Crown’s intelligent Access 1 2 3 technology to deliver the most reliable and advanced stacker performance available. The power boost feature assures an extra measure of power when encountering obstacles such as dock plates or doorway transitions.",
+      "Durability Inside and Out  ",
+      "No matter which heavy duty walkie stacker fits your application, durability is evident all around to take the abuse of your toughest applications.",
+      "A robust frame and heavy-duty mast incorporates generous amounts of heavy-gauge steel throughout. The power unit doors are made of steel for an extra measure of protection to internal components. Die-cast aluminum and structural webbing ensure the control handle provides maximum strength and durability shift after shift",
+      "Heavy Duty Walkie Stackers Offer Lasting Value",
+      "Crown builds long-term value into all of its trucks and the entire line of heavy duty walkie stackers is no exception.",
+      "With Crown’s vertically integrated manufacturing and aftermarket services, total cost of ownership can be substantially lower over time.",
+      "Crown Extended Warranty",
+      "Extended warranty options for major components and wearables offer long-term protection and peace of mind. Choose from coverage up to five years that best fits your usage and application."
+    ],
+    "options": [
+      "Freezer Conditioning",
+      "Freezer conditioning allows the lift truck to maintain performance in cold storage facilities.",
+      "Load Backrest",
+      "The steel-constructed load backrest stabilizes loads and prevents pallet movement.",
+      "Sideshifter",
+      "The sideshifter allows operators to easily reposition loads.",
+      "Drive Tire Options",
+      "Drive tire options accommodate virtually any application need. "
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "SP1510 (Fixed Fork)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Order Picker",
+      "description": "The SP Series high-level order pickers with fixed forks are ideally suited for picking bulky, oversized items or with extended platforms and industrial carts. They can be operated in guided VNA and free-ranging applications.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/man-up-order-pickers/sp-1500-stockpicker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8422f0ee0c67ab71ddaf.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84237a93d8653f1eca9f.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8424b56139658e75a01d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8426c869bb6ac876af1a.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84285276ce632f528c55.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f842968530865705163f9.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f842a1450c67d46198b1d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f842cec05a14fc524ae7a.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f842e56c6466f3b5070f0.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f842fe709c71d791a2a57.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f843115fe0b0e58560ea8.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8433c39af61ca72a89a9.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8434df54bc41b80b68b2.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8436a269030ca2010be3.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84381eeac368ec7ccb21.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84390fec1b28993e9630.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f843bbb29e05d2e0c82df.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f843c717766345111df9a.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f843eb2a2916d8f163f1c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f843f8cbd3e6387759be4.jpg"
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f84415126c2101219c193.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f6034136e914e3465ca26.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "battery": {
+      "batteryVoltageMaxAmp": {
+        "label": "Battery Voltage max amp",
+        "desc": "1,680/1,240/930 Ah"
+      },
+      "batteryVoltage": {
+        "label": "Battery Voltage",
+        "desc": "24/36/48 V"
+      },
+      "batteryWeightVMinimumB": {
+        "label": "Battery Weight 24v minimum B",
+        "desc": "1521 lbs"
+      },
+      "batteryWeightVMinimumC": {
+        "label": "Battery Weight 24v minimum C",
+        "desc": "2000 lbs"
+      },
+      "batteryWeightVMinimumD": {
+        "label": "Battery Weight 24v minimum D",
+        "desc": "2280 lbs"
+      },
+      "batteryWeightVMinimumE": {
+        "label": "Battery Weight 24v minimum E",
+        "desc": "2600 lbs"
+      },
+      "batteryWeightVAndVMinimumB": {
+        "label": "Battery Weight 36v and 48v minimum B",
+        "desc": "1700 lbs"
+      },
+      "batteryWeightVAndVMinimumC": {
+        "label": "Battery Weight 36v and 48v minimum C",
+        "desc": "2000 lbs"
+      },
+      "batteryWeightVAndVMinimumD": {
+        "label": "Battery Weight 36v and 48v minimum D",
+        "desc": "2280 lbs"
+      },
+      "batteryWeightVAndVMinimumE": {
+        "label": "Battery Weight 36v and 48v minimum E",
+        "desc": "2600 lbs"
+      }
+    },
+    "dimensions": {
+      "loadCenterC": {
+        "label": "Load Center c",
+        "desc": "24 in"
+      },
+      "loadDistanceX": {
+        "label": "Load Distance x",
+        "desc": "13 in"
+      },
+      "wheelbaseTlYB": {
+        "label": "Wheelbase TL y B",
+        "desc": "52 in"
+      },
+      "wheelbaseTlYC": {
+        "label": "Wheelbase TL y C",
+        "desc": "54.3 in"
+      },
+      "wheelbaseTlYD": {
+        "label": "Wheelbase TL y D",
+        "desc": "56 in"
+      },
+      "wheelbaseTlYE": {
+        "label": "Wheelbase TL y E",
+        "desc": "58.6 in"
+      },
+      "wheelbaseTtYB": {
+        "label": "Wheelbase TT y B",
+        "desc": "51.3 in"
+      },
+      "wheelbaseTtYC": {
+        "label": "Wheelbase TT y C",
+        "desc": "53.6 in"
+      },
+      "wheelbaseTtYD": {
+        "label": "Wheelbase TT y D",
+        "desc": "55.2 in"
+      },
+      "wheelbaseTtYE": {
+        "label": "Wheelbase TT y E",
+        "desc": "57.8 in"
+      },
+      "tireSizeFront": {
+        "label": "Tire Size Front",
+        "desc": "Ø 6 x 2.75*** in"
+      },
+      "tireSizeRear": {
+        "label": "Tire Size Rear",
+        "desc": "Ø 13 x 5.5 in"
+      },
+      "standHeightLoweredH": {
+        "label": "Stand Height Lowered h7",
+        "desc": "8.1 in"
+      },
+      "forkHeightLoweredH": {
+        "label": "Fork Height Lowered h13",
+        "desc": "3 in"
+      },
+      "headLengthTlLB": {
+        "label": "Head Length TL l2 B",
+        "desc": "74.7 in"
+      },
+      "headLengthTlLC": {
+        "label": "Head Length TL l2 C",
+        "desc": "77 in"
+      },
+      "headLengthTlLD": {
+        "label": "Head Length TL l2 D",
+        "desc": "78.7 in"
+      },
+      "headLengthTlLE": {
+        "label": "Head Length TL l2 E",
+        "desc": "81.3 in"
+      },
+      "headLengthTtLB": {
+        "label": "Head Length TT l2 B",
+        "desc": "75.5 in"
+      },
+      "headLengthTtLC": {
+        "label": "Head Length TT l2 C",
+        "desc": "77.7 in"
+      },
+      "headLengthTtLD": {
+        "label": "Head Length TT l2 D",
+        "desc": "79.4 in"
+      },
+      "headLengthTtLE": {
+        "label": "Head Length TT l2 E",
+        "desc": "82 in"
+      },
+      "forkDimensionsStandardLxwxt": {
+        "label": "Fork Dimensions Standard LxWxT",
+        "desc": "42x4x2 in"
+      },
+      "forkDimensionsOptionalLength": {
+        "label": "Fork Dimensions Optional Length",
+        "desc": "30, 36, 39, 45, 48, 54, 60, 72, 84 in"
+      },
+      "forkSpreadMinMaxB": {
+        "label": "Fork Spread Min - Max b5",
+        "desc": "24-30 in"
+      },
+      "groundClearanceWithLoadBelowMastM": {
+        "label": "Ground Clearance With Load Below Mast m1",
+        "desc": "2 in"
+      },
+      "turningRadiusTlWaB": {
+        "label": "Turning Radius TL Wa B",
+        "desc": "70 in"
+      },
+      "turningRadiusTlWaC": {
+        "label": "Turning Radius TL Wa C",
+        "desc": "72 in"
+      },
+      "turningRadiusTlWaD": {
+        "label": "Turning Radius TL Wa D",
+        "desc": "74 in"
+      },
+      "turningRadiusTlWaE": {
+        "label": "Turning Radius TL Wa E",
+        "desc": "77 in"
+      },
+      "turningRadiusTtWaB": {
+        "label": "Turning Radius TT Wa B",
+        "desc": "69 in"
+      },
+      "turningRadiusTtWaC": {
+        "label": "Turning Radius TT Wa C",
+        "desc": "72 in"
+      },
+      "turningRadiusTtWaD": {
+        "label": "Turning Radius TT Wa D",
+        "desc": "73 in"
+      },
+      "turningRadiusTtWaE": {
+        "label": "Turning Radius TT Wa E",
+        "desc": "76 in"
+      },
+      "maxBatteryBoxSizeLxwxhB": {
+        "label": "Max Battery Box Size LxWxH B",
+        "desc": "38.4 x14.25 x 31 in"
+      },
+      "maxBatteryBoxSizeLxwxhC": {
+        "label": "Max Battery Box Size LxWxH C",
+        "desc": "38.4 x16.25 x 31 in"
+      },
+      "maxBatteryBoxSizeLxwxhD": {
+        "label": "Max Battery Box Size LxWxH D",
+        "desc": "38.7 x18.2 x 31 in"
+      },
+      "maxBatteryBoxSizeLxwxhE": {
+        "label": "Max Battery Box Size LxWxH E",
+        "desc": "38.7 x20.75 x 31 in"
+      }
+    },
+    "engine": {
+      "tractionMotorVMinRating": {
+        "label": "Traction Motor 24v 60 min rating",
+        "desc": "5.2 HP"
+      },
+      "tractionMotorVMinRatingOne": {
+        "label": "Traction Motor 36v 60 min rating ONE",
+        "desc": "6.4 HP"
+      },
+      "tractionMotorVMinRatingTwo": {
+        "label": "Traction Motor 48v 60 min rating TWO",
+        "desc": "6.4 HP"
+      },
+      "pumpMotorVOnTimeOne": {
+        "label": "Pump Motor 24v 15% on time ONE",
+        "desc": "20 HP"
+      },
+      "pumpMotorVOnTimeTwo": {
+        "label": "Pump Motor 36v 15% on time TWO",
+        "desc": "20 HP"
+      },
+      "pumpMotorVOnTime": {
+        "label": "Pump Motor 48v 15% on time",
+        "desc": "20 HP"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerSourceElectric": {
+        "label": "Power Source Electric",
+        "desc": "24/36/48 Volt"
+      },
+      "operatorType": {
+        "label": "Operator Type",
+        "desc": "Stockpicker"
+      },
+      "ratedCapacityQ": {
+        "label": "Rated Capacity* Q",
+        "desc": "3000 lbs"
+      },
+      "serviceWeightLessBatteryB": {
+        "label": "Service Weight** Less Battery B",
+        "desc": "6394 lbs"
+      },
+      "serviceWeightLessBatteryC": {
+        "label": "Service Weight** Less Battery C",
+        "desc": "6239 lbs"
+      },
+      "serviceWeightLessBatteryD": {
+        "label": "Service Weight** Less Battery D",
+        "desc": "6261 lbs"
+      },
+      "serviceWeightLessBatterye": {
+        "label": "Service Weight** Less BatteryE",
+        "desc": "6305 lbs"
+      },
+      "axleLoadWLoadFrontRearB": {
+        "label": "Axle Load** W. Load, Front/Rear B",
+        "desc": "7,006/18360 lbs"
+      },
+      "axleLoadWLoadFrontRearC": {
+        "label": "Axle Load** W. Load, Front/Rear C",
+        "desc": "7,352/18528 lbs"
+      },
+      "axleLoadWLoadFrontRearD": {
+        "label": "Axle Load** W. Load, Front/Rear D",
+        "desc": "7,846/18770 lbs"
+      },
+      "axleLoadWLoadFrontRearE": {
+        "label": "Axle Load** W. Load, Front/Rear E",
+        "desc": "8,287/19010 lbs"
+      },
+      "axleLoadWOLoadFrontRearB": {
+        "label": "Axle Load**W.O. Load, Front/Rear B",
+        "desc": "10,946/8347 lbs"
+      },
+      "axleLoadWOLoadFrontRearC": {
+        "label": "Axle Load**W.O. Load, Front/Rear C",
+        "desc": "11,136/8669 lbs"
+      },
+      "axleLoadWOLoadFrontRearD": {
+        "label": "Axle Load**W.O. Load, Front/Rear D",
+        "desc": "11,524/9017 lbs"
+      },
+      "axleLoadWOLoadFrontRearE": {
+        "label": "Axle Load**W.O. Load, Front/Rear E",
+        "desc": "11,805/9418 lbs"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "polyurethane"
+      },
+      "wheelsNumberFrontBackXDriven": {
+        "label": "Wheels Number Front/Back (x=Driven)",
+        "desc": "4/1x"
+      },
+      "liftSpeedVWWOLoadOne": {
+        "label": "Lift Speed 24v  w./w.o. load ONE",
+        "desc": "43/71 fpm"
+      },
+      "liftSpeedVWWOLoadTwo": {
+        "label": "Lift Speed 36v  w./w.o. load TWO",
+        "desc": "85/115 fpm"
+      },
+      "liftSpeedVOptionalWWOLoad": {
+        "label": "Lift Speed 36v Optional w./w.o. load",
+        "desc": "85/130 fpm"
+      },
+      "liftSpeedVWWOLoad": {
+        "label": "Lift Speed 48v  w./w.o. load",
+        "desc": "98/140 fpm"
+      },
+      "loweringSpeedVWWOLoadOne": {
+        "label": "Lowering Speed 24v  w./w.o. load ONE",
+        "desc": "80/80 fpm"
+      },
+      "loweringSpeedVWWOLoadTwo": {
+        "label": "Lowering Speed 36v  w./w.o. load TWO",
+        "desc": "80/80 fpm"
+      },
+      "loweringSpeedVWWOLoad": {
+        "label": "Lowering Speed 48v  w./w.o. load",
+        "desc": "80/80 fpm"
+      },
+      "loweringSpeedVOptional": {
+        "label": "Lowering Speed 24v Optional",
+        "desc": "110 † fpm"
+      },
+      "loweringSpeedVOptionalOne": {
+        "label": "Lowering Speed 36v Optional ONE",
+        "desc": "205 † fpm"
+      },
+      "loweringSpeedVOptionalTwo": {
+        "label": "Lowering Speed 48v Optional TWO",
+        "desc": "205 † fpm"
+      },
+      "serviceBrake": {
+        "label": "Service Brake",
+        "desc": "regenerative"
+      },
+      "parkingBrake": {
+        "label": "Parking Brake",
+        "desc": "electro-magnetic"
+      },
+      "driveUnit": {
+        "label": "Drive Unit",
+        "desc": "AC traction"
+      }
+    },
+    "videos": [
+      {
+        "src": "https://youtu.be/n89pEEz5qRU",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/QD3-KCjDMR8",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/gu3tE1g3Gos",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/idOiXRe4SVU",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/GLqvB8ZDyjM",
+        "desc": "",
+        "longDesc": ""
+      }
+    ],
+    "features": [
+      "Discover the Visibility Advantage",
+      "Crown's SP Series order pickers are designed to help operators efficiently handle a variety of tasks in dynamic, high-density environments.",
+      "All-Around Visibility Boosts Performance",
+      "Visibility is the foundation of safety and productivity.",
+      "The Crown SP Series high-level order pickers provide operators with unprecedented views - both on the ground and in the air.",
+      "Clear-View Travel",
+      "The large upper platform window in combination with the clear-view mast design offers increased visibility when maneuvering in free-range applications and an open view of the next pick location at height.",
+      "The industry-exclusive mid window - centered between the controls of the high-level order picker - provides unobstructed views when elevated and traveling in the direction of the power unit.",
+      "Floorboard Openings",
+      "The fixed-fork model features openings in the middle and on each side of the floorboard allowing operators working at height to see the outriggers and the area beneath the platform.",
+      "Auxiliary Mast Windows",
+      "The auxiliary mast truck provides windows for open views in the forks-first direction when forks are elevated.",
+      "Performance in Motion ",
+      "The SP Series takes order-picking productivity to the next level by focusing on the combined performance of lift truck and operator during picking tasks.",
+      "The stability at height and OnTrac anti-slip traction control enhance operator confidence during truck positioning, allowing the operator to focus on the picking task.",
+      "Intelligent Safety Focus Builds Confidence",
+      "Order picking is a physically demanding job that requires concentration on the task at hand.",
+      "Intelligent systems provide guidance to help increase operator awareness and promote a safe and productive",
+      "working environment. Moreover, the SP Series offers a stable stance with four points of contact for the operator.",
+      "The Gena operating system provides operators with an intuitive, data-rich experience that's fully integrated into the SP Series' architecture. Its 7\" touch screen is programmable in multiple languages. Customizable widgets display key performance metrics.",
+      "With the Zone Select feature, three seperate clear heights (zones) can be programmed for different areas within the application. The operator can easily change zones, or simply check which zone is active, on the touch screen.",
+      "Upon log-in, the high-level order pickers display safety messages to reinforce operator training. Clear interactive displays, automated assistance and coaching, and context-sensitive alerts further enhance performance and productivity.",
+      "Deploy Next-Level Power with V-Force Lithium-Ion Technology ",
+      "SP Series high-level order pickers are also available with lithium-ion batteries. Compared to traditional lead-acid batteries, the V-Force Integrated Lithium-Ion System delivers game-changing advantages.",
+      "True opportunity charging for increased uptime",
+      "Low Maintenance saving time and costs",
+      "No battery swapping thanks to longer runtimes",
+      "Increased safety due to zero emissions and multi-level safety architecture",
+      "Longer battery life saving replacement and service costs",
+      "Improved efficiency and higher sustained voltage",
+      "Smarter System, Longer Uptime ",
+      "High-level order pickers are major investments in your operation's productivity.",
+      "Optimum uptime and performance are critical. That's why the SP Series offers a combination of robust construction and advanced technology to deliver the serviceability and reliability required for success.",
+      "Heavy-duty steel frame and covers",
+      "Easy-access covers, panels, and skirt doors",
+      "Seperate electronics and hydraulic systems",
+      "Wireless software downloads",
+      "Easy-to-adjust settings",
+      "Step-by-step calibration instructions",
+      "Gena analyzer, which displays inputs and outputs of individual system components"
+    ],
+    "options": [
+      "For long-term performance, the SP Series offers a powerful visibility advantage, industry-leading speeds, an operator-focused design, advanced technology options and a comprehensive approach to uptime.",
+      "Large Panoramic Window",
+      "The optional large panoramic window in the overhead guard enhances visibility of pick locations and overhead obstructions.",
+      "Efficiency is critical and Crown's high level order pickers deliver outstanding raise/lower and travel speeds with an intuitive blending of truck functions that helps boost throughput. Optional Xpress Lower further boosts productivity with lower speeds up to 205 fpm ",
+      "Operator-Focused Design",
+      "Operators of high-level order pickers are multitaskers who must effectively operate the lift truck in addition to picking product. The adaptive operator compartment of the SP Series order picker can be customized with a comprehensive range of options and accessories to meet individual operator preferences and application requirements to boost operational efficiency.",
+      "Platform Widths to Fit Your Aisle",
+      "The operator compartment offers comfort and flexibility to fit the operator and the picking task. Optional wider platform sizes can be customized for your aisle width, offering additional mounting points for Work Assist components.",
+      "Control Sets  Fully Adjustable Operator Controls",
+      "Optional, independently height-adjustable control sets provide flexibility for operators of varying heights. The left-hand dual-position tiller accommodates operator steering preference and operational needs. The right-hand control enables the operator to easily blend control functions.",
+      "Dual Controls for Multi-Directional Travel",
+      "The optional dual controls - one facing the power unit, the other facing the forks - provide the flexibility to change between power-unit or forks-first travel improving visibility and operator efficiency.",
+      "Crown's optional InfoLink Operator and Fleet Management System helps promote safe operating behavior with features including access control, visual inspection checklists, impact detection and alerts, or equipment lockout. Real-time and historical data reveal areas of risk and identify areas of opportunity.",
+      "Lead Acid Power",
+      "V-Force Lead-Acid Batteries offer the advantages of lower initial cost than other battery technologies and proven, trusted performance for light to heavy duty cycles, from one to three shifts. With proper maintenance, they can support conventional, opportunity and fast charging, delivering reliable energy when it’s needed.",
+      "Lithium-Ion Power",
+      "V-Force Lithium-Ion Energy Storage Systems can improve performance and productivity, with technology that provides more consistent power output throughout the entire battery discharge cycle. Shorter recharge times and better charge acceptance characteristics make them great alternative power solutions for opportunity and fast charging applications.",
+      "Wire or Rail Guidance",
+      "Wire guidance automates steering control, allowing for minimal aisle widths.",
+      "Rail guidance automates steering control, allowing for minimal aisle widths. Rail guidance is not affected by facility power outages.",
+      "Xpress Lower",
+      "Xpress Lower, an industry exclusive, reduces pick cycle times with more than 2x quicker lowering speed.",
+      "Fans and Lights",
+      "Dome and work lights, LED spotlights, a blue floor spotlight and two operator fans are available to improve operator comfort.",
+      "Overhead Guard Extensions",
+      "Overhead guard extensions offer enhanced protection for operators - especially on wider platform sizes.",
+      "Pallet Clamp",
+      "The pallet clamp secures pallets with stringers to prevent unwanted movement."
+    ]
+  },
+  {
+    "general": {
+      "manufacturer": "Crown",
+      "model": "SP 1520 (Aux Lift)",
+      "year": 2024,
+      "msrp": 0,
+      "category": "Forklifts / Lift Trucks",
+      "subcategory": "Order Picker",
+      "description": "The SP Series high-level order pickers with auxiliary mast allow the operator to vary the load height, reducing the need for reaching and bending. They are suitable for guided VNA and free-ranging applications.",
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "productUri": "https://www.crown.com/en-us/forklifts/man-up-order-pickers/sp-1500-stockpicker.html",
+    "images": [
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84442fae4d0bb62db401.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8445942a202b9267d7cf.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8447b2a2916d8f163f1f.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8449060f3735336d6353.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f844b5ab24e64c41472b3.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f844d7976f57abe4a5d37.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f844ecbace617030014d3.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84508a7f165088252c25.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f845286226b341c2c7fca.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f845427a3b95fa80b1909.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84560c142848931ac969.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8457b1d597347456df7d.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f845944d3374c606e1ba6.png"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f845b97cd537c89457d8a.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f845ca2b5c9743b6d2b76.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f845e821a8708ae7d35e6.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f84603cec833f3d08352c.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8461f4d13d753d762822.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f846364753d050c6538c7.jpg"
+      },
+      {
+        "desc": "",
+        "longDesc": "",
+        "src": "https://cdn1.traderonline.com/vLatest/media/669f8464a8fa180724033980.jpg"
+      }
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "pdf",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f84661247f351ec216f83.pdf",
+        "attachmentName": ""
+      },
+      {
+        "attachmentDescription": "pdf 1",
+        "attachmentLocation": "https://cdn1.traderonline.com/vLatest/media/669f6034136e914e3465ca26.pdf",
+        "attachmentName": ""
+      }
+    ],
+    "battery": {
+      "batteryVoltage": {
+        "label": "Battery Voltage",
+        "desc": "24/36/48 V"
+      },
+      "batteryVoltageMaxAmp": {
+        "label": "Battery Voltage max amp",
+        "desc": "1,690/1,240/930 Ah"
+      },
+      "batteryWeightVMinimumB": {
+        "label": "Battery Weight 24v minimum B",
+        "desc": "1520 lbs"
+      },
+      "batteryWeightVMinimumC": {
+        "label": "Battery Weight 24v minimum C",
+        "desc": "2000 lbs"
+      },
+      "batteryWeightVMinimumD": {
+        "label": "Battery Weight 24v minimum D",
+        "desc": "2280 lbs"
+      },
+      "batteryWeightVMinimumE": {
+        "label": "Battery Weight 24v minimum E",
+        "desc": "2600 lbs"
+      },
+      "batteryWeightVAndVMinimumB": {
+        "label": "Battery Weight 36v and 48v minimum B",
+        "desc": "1700 lbs"
+      },
+      "batteryWeightVAndVMinimumC": {
+        "label": "Battery Weight 36v and 48v minimum C",
+        "desc": "2000 lbs"
+      },
+      "batteryWeightVAndVMinimumD": {
+        "label": "Battery Weight 36v and 48v minimum D",
+        "desc": "2280 lbs"
+      },
+      "batteryWeightVAndVMinimumE": {
+        "label": "Battery Weight 36v and 48v minimum E",
+        "desc": "2600 lbs"
+      }
+    },
+    "dimensions": {
+      "loadCenterC": {
+        "label": "Load Center c",
+        "desc": "24 in"
+      },
+      "loadDistanceX": {
+        "label": "Load Distance X",
+        "desc": "13 in"
+      },
+      "wheelbaseTlYB": {
+        "label": "Wheelbase TL y B",
+        "desc": "52 in"
+      },
+      "wheelbaseTlYC": {
+        "label": "Wheelbase TL y C",
+        "desc": "54 in"
+      },
+      "wheelbaseTlYD": {
+        "label": "Wheelbase TL y D",
+        "desc": "56 in"
+      },
+      "wheelbaseTlYE": {
+        "label": "Wheelbase TL y E",
+        "desc": "59 in"
+      },
+      "wheelbaseTtYB": {
+        "label": "Wheelbase TT y B",
+        "desc": "51in"
+      },
+      "wheelbaseTtYC": {
+        "label": "Wheelbase TT y C",
+        "desc": "54 in"
+      },
+      "wheelbaseTtYD": {
+        "label": "Wheelbase TT y D",
+        "desc": "55in"
+      },
+      "wheelbaseTtYE": {
+        "label": "Wheelbase TT y E",
+        "desc": "58 in"
+      },
+      "tireSizeFront": {
+        "label": "Tire Size Front",
+        "desc": "Ø 6 x 2.75*** in"
+      },
+      "tiraeSizeRear": {
+        "label": "Tire Size Rear",
+        "desc": "Ø 13 x 5.5 in"
+      },
+      "standHeightLoweredH": {
+        "label": "Stand Height Lowered h7",
+        "desc": "9.45 in"
+      },
+      "forkHeightElevatedH": {
+        "label": "Fork Height Elevated h12",
+        "desc": "3 in"
+      },
+      "headLengthTlLB": {
+        "label": "Head Length TL l2 B ",
+        "desc": "84 in"
+      },
+      "headLengthTlLC": {
+        "label": "Head Length TL l2 C",
+        "desc": "86 in"
+      },
+      "headLengthTlLD": {
+        "label": "Head Length TL l2 D",
+        "desc": "88 in"
+      },
+      "headLengthTlLE": {
+        "label": "Head Length TL l2 E",
+        "desc": "90 in"
+      },
+      "headLengthTtLB": {
+        "label": "Head Length TT l2 B",
+        "desc": "85 in"
+      },
+      "headLengthTtLC": {
+        "label": "Head Length TT l2 C",
+        "desc": "87 in"
+      },
+      "headLengthTtLD": {
+        "label": "Head Length TT l2 D",
+        "desc": "88 in"
+      },
+      "headLengthTtLE": {
+        "label": "Head Length TT l2 E",
+        "desc": "91 in"
+      },
+      "forkDimensionsStandardLxwxt": {
+        "label": "Fork Dimensions Standard LxWxT",
+        "desc": "45x4x1.5 in"
+      },
+      "forkDimensionsOptionalLength": {
+        "label": "Fork Dimensions Optional Length",
+        "desc": "30,36,39,42,48 in"
+      },
+      "forkSpreadMinMaxB": {
+        "label": "Fork Spread Min - Max b5",
+        "desc": "8.0-33 in"
+      },
+      "groundClearanceWithLoadBelowMastM": {
+        "label": "Ground Clearance With Load Below Mast m1",
+        "desc": "2 in"
+      },
+      "turningRadiusTlWaB": {
+        "label": "Turning Radius TL Wa B",
+        "desc": "70 in"
+      },
+      "turningRadiusTlWaC": {
+        "label": "Turning Radius TL Wa C",
+        "desc": "72 in"
+      },
+      "turningRadiusTlWaD": {
+        "label": "Turning Radius TL Wa D",
+        "desc": "74 in"
+      },
+      "turningRadiusTlWaE": {
+        "label": "Turning Radius TL Wa E",
+        "desc": "77 in"
+      },
+      "turningRadiusTtWaB": {
+        "label": "Turning Radius TT Wa B",
+        "desc": "69 in"
+      },
+      "turningRadiusTtWaC": {
+        "label": "Turning Radius TT Wa C",
+        "desc": "72 in"
+      },
+      "turningRadiusTtWaD": {
+        "label": "Turning Radius TT Wa D",
+        "desc": "73 in"
+      },
+      "turningRadiusTtWaE": {
+        "label": "Turning Radius TT Wa E",
+        "desc": "76 in"
+      },
+      "maxBatteryBoxSizeLxwxhB": {
+        "label": "Max Battery Box Size LxWxH B",
+        "desc": "38.4 x 14.25 x 31  in"
+      },
+      "maxBatteryBoxSizeLxwxhC": {
+        "label": "Max Battery Box Size LxWxH C",
+        "desc": "38.4 x 16.25 x 31 in"
+      },
+      "maxBatteryBoxSizeLxwxhD": {
+        "label": "Max Battery Box Size LxWxH D",
+        "desc": "38.7 x 18.2 x 31 in"
+      },
+      "maxBatteryBoxSizeLxwxhE": {
+        "label": "Max Battery Box Size LxWxH E",
+        "desc": "38.7 x 20.75 x 31 in"
+      }
+    },
+    "engine": {
+      "tractionMotorVMinRating": {
+        "label": "Traction Motor 24v 60 min rating",
+        "desc": "5.2 HP"
+      },
+      "tractionMotorVMinRatingOne": {
+        "label": "Traction Motor 36v 60 min rating one",
+        "desc": "6.4 HP"
+      },
+      "tractionMotorVMinRatingTwo": {
+        "label": "Traction Motor 48v 60 min rating two",
+        "desc": "6.4 HP"
+      },
+      "pumpMotorVOnTime": {
+        "label": "Pump Motor 24v 15% on time",
+        "desc": "20 HP"
+      },
+      "pumpMotorVMinRating": {
+        "label": "Pump Motor 36v 60 min rating",
+        "desc": "20 HP"
+      },
+      "pumpMotorVOnTimeOne": {
+        "label": "Pump Motor 48v 15% on time one",
+        "desc": "20 HP"
+      }
+    },
+    "operational": {
+      "manufacturer": {
+        "label": "Manufacturer",
+        "desc": "Crown Equipment Corporation"
+      },
+      "powerSourceElectric": {
+        "label": "Power Source Electric",
+        "desc": "24/36/48 Volt"
+      },
+      "operatorType": {
+        "label": "Operator Type",
+        "desc": "Stockpicker"
+      },
+      "ratedCapacityQ": {
+        "label": "Rated Capacity* Q",
+        "desc": "2200 lbs"
+      },
+      "serviceWeightLessBatteryB": {
+        "label": "Service Weight** Less Battery B",
+        "desc": "6845 lbs"
+      },
+      "serviceWeightLessBatteryC": {
+        "label": "Service Weight** Less Battery C",
+        "desc": "6702 lbs"
+      },
+      "serviceWeightLessBatteryD": {
+        "label": "Service Weight** Less Battery D",
+        "desc": "6724 lbs"
+      },
+      "serviceWeightLessBatteryE": {
+        "label": "Service Weight** Less Battery E",
+        "desc": "6768 lbs"
+      },
+      "axleLoadWLoadFrontRearB": {
+        "label": "Axle Load** W. Load, Front/Rear B",
+        "desc": "6,391/18777 lbs"
+      },
+      "axleLoadWLoadFrontRearC": {
+        "label": "Axle Load** W. Load, Front/Rear C",
+        "desc": "6,762/18918 lbs"
+      },
+      "axleLoadWLoadFrontRearD": {
+        "label": "Axle Load** W. Load, Front/Rear D",
+        "desc": "7,271/19145 lbs"
+      },
+      "axleLoadWLoadFrontRearE": {
+        "label": "Axle Load** W. Load, Front/Rear E",
+        "desc": "7,736/19361 lbs"
+      },
+      "axleLoadWOLoadFrontRearB": {
+        "label": "Axle Load** W.O. Load, Front/Rear B",
+        "desc": "10,342/9967lbs"
+      },
+      "axleLoadWOLoadFrontRear": {
+        "label": "Axle Load** W.O. Load, Front/Rear",
+        "desc": "10,554/10265 lbs"
+      },
+      "axleLoadWOLoadFrontRearC": {
+        "label": "Axle Load** W.O. Load, Front/Rear C",
+        "desc": "10,957/10598 lbs"
+      },
+      "axleLoadWOLoadFrontRearD": {
+        "label": "Axle Load** W.O. Load, Front/Rear D",
+        "desc": "11,263/10975 lbs"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "polyurethane"
+      },
+      "wheelsNumberFrontBackXDriven": {
+        "label": "Wheels Number Front/Back (x=Driven)",
+        "desc": "4/1x"
+      },
+      "liftSpeedVWWOLoadOne": {
+        "label": "Lift Speed 24V  w./w.o. load one",
+        "desc": "43/71 fpm"
+      },
+      "liftSpeedVWWOLoadTwo": {
+        "label": "Lift Speed 36V  w./w.o. load two",
+        "desc": "85/115 fpm"
+      },
+      "liftSpeedVOptionalWWOLoad": {
+        "label": "Lift Speed 36V Optional  w./w.o. load",
+        "desc": "85/130 fpm"
+      },
+      "liftSpeedVWWOLoad": {
+        "label": "Lift Speed 48V  w./w.o. load",
+        "desc": "98/140 fpm"
+      },
+      "loweringSpeedVOptional": {
+        "label": "Lowering Speed 24v Optional",
+        "desc": "80/80 fpm"
+      },
+      "loweringSpeedVOptionalOne": {
+        "label": "Lowering Speed 36v Optional one",
+        "desc": "80/80 fpm"
+      },
+      "loweringSpeedVWWOLoad": {
+        "label": "Lowering Speed 48V  w./w.o. load",
+        "desc": "80/80 fpm"
+      },
+      "loweringSpeedVOptionalFour": {
+        "label": "Lowering Speed24v Optional four",
+        "desc": "110 † fpm"
+      },
+      "loweringSpeedVOptionalTwo": {
+        "label": "Lowering Speed 36v Optional two",
+        "desc": "205 † fpm"
+      },
+      "loweringSpeedVOptionalThree": {
+        "label": "Lowering Speed 48v Optional three",
+        "desc": "205 † fpm"
+      },
+      "auxMastTravelSpeedWWOLoad": {
+        "label": "Aux Mast Travel Speed w./w.o. load    ",
+        "desc": "Std mph"
+      },
+      "auxMastLiftSpeedWWOLoadB": {
+        "label": "Aux Mast Lift Speed w./w.o. load B",
+        "desc": "39.4 mph"
+      },
+      "auxMastLiftSpeedWWOLoadC": {
+        "label": "Aux Mast Lift Speed w./w.o. load C",
+        "desc": "39.4 mph"
+      },
+      "auxMastLiftSpeedWWOLoadD": {
+        "label": "Aux Mast Lift Speed w./w.o. load D",
+        "desc": "39.4 mph"
+      },
+      "auxMastLiftSpeedWWOLoadE": {
+        "label": "Aux Mast Lift Speed w./w.o. load E",
+        "desc": "39.4 mph"
+      },
+      "auxMastLowerSpeedWWOLoadB": {
+        "label": "Aux Mast Lower Speed w./w.o. load B",
+        "desc": "18.7 mph"
+      },
+      "auxMastLowerSpeedWWOLoadC": {
+        "label": "Aux Mast Lower Speed w./w.o. load C",
+        "desc": "18.7 mph"
+      },
+      "auxMastLowerSpeedWWOLoadD": {
+        "label": "Aux Mast Lower Speed w./w.o. load D",
+        "desc": "18.7 mph"
+      },
+      "auxMastLowerSpeedWWOLoadE": {
+        "label": "Aux Mast Lower Speed w./w.o. load E",
+        "desc": "18.7 mph"
+      },
+      "serviceBrake": {
+        "label": "Service Brake",
+        "desc": "regenerative"
+      },
+      "parkingBrake": {
+        "label": "Parking Brake",
+        "desc": "electro-magnetic"
+      },
+      "driveUnit": {
+        "label": "Drive Unit",
+        "desc": "AC traction"
+      }
+    },
+    "videos": [
+      {
+        "src": "https://youtu.be/n89pEEz5qRU",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/QD3-KCjDMR8",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/gu3tE1g3Gos",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/idOiXRe4SVU",
+        "desc": "",
+        "longDesc": ""
+      },
+      {
+        "src": "https://youtu.be/GLqvB8ZDyjM",
+        "desc": "",
+        "longDesc": ""
+      }
+    ],
+    "features": [
+      "Discover the Visibility Advantage",
+      "Crown's SP Series order pickers are designed to help operators efficiently handle a variety of tasks in dynamic, high-density environments.",
+      "All-Around Visibility Boosts Performance",
+      "Visibility is the foundation of safety and productivity.",
+      "The Crown SP Series high-level order pickers provide operators with unprecedented views - both on the ground and in the air.",
+      "Clear-View Travel",
+      "The large upper platform window in combination with the clear-view mast design offers increased visibility when maneuvering in free-range applications and an open view of the next pick location at height.",
+      "The industry-exclusive mid window - centered between the controls of the high-level order picker - provides unobstructed views when elevated and traveling in the direction of the power unit.",
+      "Floorboard Openings",
+      "The fixed-fork model features openings in the middle and on each side of the floorboard allowing operators working at height to see the outriggers and the area beneath the platform.",
+      "Auxiliary Mast Windows",
+      "The auxiliary mast truck provides windows for open views in the forks-first direction when forks are elevated.",
+      "Performance in Motion ",
+      "The SP Series takes order-picking productivity to the next level by focusing on the combined performance of lift truck and operator during picking tasks.",
+      "The stability at height and OnTrac anti-slip traction control enhance operator confidence during truck positioning, allowing the operator to focus on the picking task.",
+      "Intelligent Safety Focus Builds Confidence",
+      "Order picking is a physically demanding job that requires concentration on the task at hand.",
+      "Intelligent systems provide guidance to help increase operator awareness and promote a safe and productive",
+      "working environment. Moreover, the SP Series offers a stable stance with four points of contact for the operator.",
+      "The Gena operating system provides operators with an intuitive, data-rich experience that's fully integrated into the SP Series' architecture. Its 7\" touch screen is programmable in multiple languages. Customizable widgets display key performance metrics.",
+      "With the Zone Select feature, three seperate clear heights (zones) can be programmed for different areas within the application. The operator can easily change zones, or simply check which zone is active, on the touch screen.",
+      "Upon log-in, the high-level order pickers display safety messages to reinforce operator training. Clear interactive displays, automated assistance and coaching, and context-sensitive alerts further enhance performance and productivity.",
+      "Deploy Next-Level Power with V-Force Lithium-Ion Technology ",
+      "SP Series high-level order pickers are also available with lithium-ion batteries. Compared to traditional lead-acid batteries, the V-Force Integrated Lithium-Ion System delivers game-changing advantages.",
+      "True opportunity charging for increased uptime",
+      "Low Maintenance saving time and costs",
+      "No battery swapping thanks to longer runtimes",
+      "Increased safety due to zero emissions and multi-level safety architecture",
+      "Longer battery life saving replacement and service costs",
+      "Improved efficiency and higher sustained voltage",
+      "Smarter System, Longer Uptime ",
+      "High-level order pickers are major investments in your operation's productivity.",
+      "Optimum uptime and performance are critical. That's why the SP Series offers a combination of robust construction and advanced technology to deliver the serviceability and reliability required for success.",
+      "Heavy-duty steel frame and covers",
+      "Easy-access covers, panels, and skirt doors",
+      "Seperate electronics and hydraulic systems",
+      "Wireless software downloads",
+      "Easy-to-adjust settings",
+      "Step-by-step calibration instructions",
+      "Gena analyzer, which displays inputs and outputs of individual system components"
+    ],
+    "options": [
+      "For long-term performance, the SP Series offers a powerful visibility advantage, industry-leading speeds, an operator-focused design, advanced technology options and a comprehensive approach to uptime.",
+      "Large Panoramic Window",
+      "The optional large panoramic window in the overhead guard enhances visibility of pick locations and overhead obstructions.",
+      "Efficiency is critical and Crown's high level order pickers deliver outstanding raise/lower and travel speeds with an intuitive blending of truck functions that helps boost throughput. Optional Xpress Lower further boosts productivity with lower speeds up to 205 fpm ",
+      "Operator-Focused Design",
+      "Operators of high-level order pickers are multitaskers who must effectively operate the lift truck in addition to picking product. The adaptive operator compartment of the SP Series order picker can be customized with a comprehensive range of options and accessories to meet individual operator preferences and application requirements to boost operational efficiency.",
+      "Platform Widths to Fit Your Aisle",
+      "The operator compartment offers comfort and flexibility to fit the operator and the picking task. Optional wider platform sizes can be customized for your aisle width, offering additional mounting points for Work Assist components.",
+      "Control Sets  Fully Adjustable Operator Controls",
+      "Optional, independently height-adjustable control sets provide flexibility for operators of varying heights. The left-hand dual-position tiller accommodates operator steering preference and operational needs. The right-hand control enables the operator to easily blend control functions.",
+      "Dual Controls for Multi-Directional Travel",
+      "The optional dual controls - one facing the power unit, the other facing the forks - provide the flexibility to change between power-unit or forks-first travel improving visibility and operator efficiency.",
+      "Crown's optional InfoLink Operator and Fleet Management System helps promote safe operating behavior with features including access control, visual inspection checklists, impact detection and alerts, or equipment lockout. Real-time and historical data reveal areas of risk and identify areas of opportunity.",
+      "Lead Acid Power",
+      "V-Force Lead-Acid Batteries offer the advantages of lower initial cost than other battery technologies and proven, trusted performance for light to heavy duty cycles, from one to three shifts. With proper maintenance, they can support conventional, opportunity and fast charging, delivering reliable energy when it’s needed.",
+      "Lithium-Ion Power",
+      "V-Force Lithium-Ion Energy Storage Systems can improve performance and productivity, with technology that provides more consistent power output throughout the entire battery discharge cycle. Shorter recharge times and better charge acceptance characteristics make them great alternative power solutions for opportunity and fast charging applications.",
+      "Wire or Rail Guidance",
+      "Wire guidance automates steering control, allowing for minimal aisle widths.",
+      "Rail guidance automates steering control, allowing for minimal aisle widths. Rail guidance is not affected by facility power outages.",
+      "Xpress Lower",
+      "Xpress Lower, an industry exclusive, reduces pick cycle times with more than 2x quicker lowering speed.",
+      "Fans and Lights",
+      "Dome and work lights, LED spotlights, a blue floor spotlight and two operator fans are available to improve operator comfort.",
+      "Overhead Guard Extensions",
+      "Overhead guard extensions offer enhanced protection for operators - especially on wider platform sizes.",
+      "Pallet Clamp",
+      "The pallet clamp secures pallets with stringers to prevent unwanted movement."
+    ]
+  }
+]
